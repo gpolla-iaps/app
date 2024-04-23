@@ -1,64 +1,14 @@
-{
-    "economics":[
-        {
-            "nombre": "Vol. 7 Núm. 12 (2023)",
-            "image": "https://revistas.uncu.edu.ar/ojs/public/journals/42/cover_issue_488_es_ES.jpg",
-            "link": "https://revistas.uncu.edu.ar/ojs/index.php/cuyonomics/issue/view/488"
-        },
-        {
-            "nombre": "Vol. 7 Núm. 11 (2023)",
-            "image": "https://revistas.uncu.edu.ar/ojs/public/journals/42/cover_issue_444_es_ES.png",
-            "link": "https://revistas.uncu.edu.ar/ojs/index.php/cuyonomics/issue/view/444"
-        },
-        {
-            "nombre": "Vol. 6 Núm. 10 (2022)",
-            "image": "https://revistas.uncu.edu.ar/ojs/public/journals/42/cover_issue_423_es_ES.jpg",
-            "link": "https://revistas.uncu.edu.ar/ojs/index.php/cuyonomics/issue/view/423"
-        },
-        {
-            "nombre": "Vol. 6 Núm. 9 (2022)",
-            "image": "https://revistas.uncu.edu.ar/ojs/public/journals/42/cover_issue_378_es_ES.png",
-            "link": "https://revistas.uncu.edu.ar/ojs/index.php/cuyonomics/issue/view/378"
-        },
-        {
-            "nombre": "Vol. 5 Núm. 8 (2021)",
-            "image": "https://revistas.uncu.edu.ar/ojs/public/journals/42/cover_issue_351_es_ES.jpg",
-            "link": "https://revistas.uncu.edu.ar/ojs/index.php/cuyonomics/issue/view/351"
-        },
-        {
-            "nombre": "Vol. 5 Núm. 7 (2021)",
-            "image": "https://revistas.uncu.edu.ar/ojs/public/journals/42/cover_issue_319_es_ES.jpg",
-            "link": "https://revistas.uncu.edu.ar/ojs/index.php/cuyonomics/issue/view/319"
-        },
-        {
-            "nombre": "Vol. 4 Núm. 6 (2020)",
-            "image": "https://revistas.uncu.edu.ar/ojs/public/journals/42/cover_issue_298_es_ES.jpg",
-            "link": "https://revistas.uncu.edu.ar/ojs/index.php/cuyonomics/issue/view/298"
-        },
-        {
-            "nombre": "Vol. 4 Núm. 5 (2020)",
-            "image": "https://revistas.uncu.edu.ar/ojs/public/journals/42/cover_issue_257_es_ES.jpg",
-            "link": "https://revistas.uncu.edu.ar/ojs/index.php/cuyonomics/issue/view/257"
-        },
-        {
-            "nombre": "Vol. 3 Núm. 4 (2019)",
-            "image": "https://revistas.uncu.edu.ar/ojs/public/journals/42/cover_issue_205_es_ES.jpg",
-            "link": "https://revistas.uncu.edu.ar/ojs/index.php/cuyonomics/issue/view/205"
-        },        
-        {
-            "nombre": "Vol. 3 Núm. 3 (2019)",
-            "image": "https://revistas.uncu.edu.ar/ojs/public/journals/42/cover_issue_141_es_ES.png",
-            "link": "https://revistas.uncu.edu.ar/ojs/index.php/cuyonomics/issue/view/141"
-        },        
-        {
-            "nombre": "Vol. 2 Núm. 2 (2018)",
-            "image": "https://revistas.uncu.edu.ar/ojs/public/journals/42/cover_issue_103_es_ES.png",
-            "link": "https://revistas.uncu.edu.ar/ojs/index.php/cuyonomics/issue/view/103"
-        },        
-        {
-            "nombre": "Vol. 1 Núm. 1 (2017)",
-            "image": "https://revistas.uncu.edu.ar/ojs/public/journals/42/cover_issue_77_es_ES.png",
-            "link": "https://revistas.uncu.edu.ar/ojs/index.php/cuyonomics/issue/view/77"
-        }        
-    ]
-}
+cuyonomics = [
+("Vol. 7 Núm. 12 (2023)", "https://revistas.uncu.edu.ar/ojs/public/journals/42/cover_issue_488_es_ES.jpg", "https://revistas.uncu.edu.ar/ojs/index.php/cuyonomics/issue/view/488"),
+("Vol. 7 Núm. 11 (2023)", "https://revistas.uncu.edu.ar/ojs/public/journals/42/cover_issue_444_es_ES.png", "https://revistas.uncu.edu.ar/ojs/index.php/cuyonomics/issue/view/444"),
+("Vol. 6 Núm. 10 (2022)", "https://revistas.uncu.edu.ar/ojs/public/journals/42/cover_issue_423_es_ES.jpg", "https://revistas.uncu.edu.ar/ojs/index.php/cuyonomics/issue/view/423"),
+("Vol. 6 Núm. 9 (2022)", "https://revistas.uncu.edu.ar/ojs/public/journals/42/cover_issue_378_es_ES.png", "https://revistas.uncu.edu.ar/ojs/index.php/cuyonomics/issue/view/378"),
+("Vol. 5 Núm. 8 (2021)", "https://revistas.uncu.edu.ar/ojs/public/journals/42/cover_issue_351_es_ES.jpg", "https://revistas.uncu.edu.ar/ojs/index.php/cuyonomics/issue/view/351"),
+("Vol. 5 Núm. 7 (2021)", "https://revistas.uncu.edu.ar/ojs/public/journals/42/cover_issue_319_es_ES.jpg", "https://revistas.uncu.edu.ar/ojs/index.php/cuyonomics/issue/view/319"),
+("Vol. 4 Núm. 6 (2020)", "https://revistas.uncu.edu.ar/ojs/public/journals/42/cover_issue_298_es_ES.jpg", "https://revistas.uncu.edu.ar/ojs/index.php/cuyonomics/issue/view/298"),
+("Vol. 4 Núm. 5 (2020)", "https://revistas.uncu.edu.ar/ojs/public/journals/42/cover_issue_257_es_ES.jpg", "https://revistas.uncu.edu.ar/ojs/index.php/cuyonomics/issue/view/257"),
+("Vol. 3 Núm. 4 (2019)", "https://revistas.uncu.edu.ar/ojs/public/journals/42/cover_issue_205_es_ES.jpg", "https://revistas.uncu.edu.ar/ojs/index.php/cuyonomics/issue/view/205"),
+("Vol. 3 Núm. 3 (2019)", "https://revistas.uncu.edu.ar/ojs/public/journals/42/cover_issue_141_es_ES.png", "https://revistas.uncu.edu.ar/ojs/index.php/cuyonomics/issue/view/141"),
+("Vol. 2 Núm. 2 (2018)", "https://revistas.uncu.edu.ar/ojs/public/journals/42/cover_issue_103_es_ES.png", "https://revistas.uncu.edu.ar/ojs/index.php/cuyonomics/issue/view/103"),
+("Vol. 1 Núm. 1 (2017)", "https://revistas.uncu.edu.ar/ojs/public/journals/42/cover_issue_77_es_ES.png", "https://revistas.uncu.edu.ar/ojs/index.php/cuyonomics/issue/view/77")
+]
