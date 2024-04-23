@@ -26,7 +26,7 @@ El siguiente Plan de Negocios, para un Hostel en Mendoza, se sitúa en un marco 
 """
 link_16788 = "https://bdigital.uncu.edu.ar/16788"
 
-tesis = [(Id_16764, titulo_16764, autor_16764, resumen_16764, link_16764),
-         (Id_16809, titulo_16809, autor_16809, resumen_16809, link_16809),
-         (Id_16788, titulo_16788, autor_16788, resumen_16788, link_16788)
+tesis = [(titulo_16764, autor_16764, resumen_16764, link_16764),
+         (titulo_16809, autor_16809, resumen_16809, link_16809),
+         (titulo_16788, autor_16788, resumen_16788, link_16788)
 ]
