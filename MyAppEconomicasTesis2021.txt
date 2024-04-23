@@ -1,0 +1,244 @@
+# Tesis de grados
+# -----------------------------------------------------------------------------------------------------------
+Id_16848 = 16848
+titulo_16848 = "Análisis estratégico de una colchonería de la provincia de Mendoza"
+autor_16848 = "Rodríguez Giménez, Luciana Ángela"
+resumen_16848 = """
+En el presente informe se realiza un análisis estratégico para una empresa dedicada a la comercialización y distribución de colchones, sommiers y ropa de cama. El propósito principal, es brindarles a los dueños herramientas estratégicas que les permitan tomar decisiones para el buen funcionamiento del negocio logrando aumentar la participación del mercado. Se comienza presentando a la empresa y realizando un diagnóstico interno u organizacional que permite detectar fortalezas y debilidades. Para ello se utilizó la herramienta CANVAS del libro Generación de modelos de negocios, Osterwalder y Pigneur, 2010, para plasmar el modelo de negocio actual en el lienzo de los nueve módulos. A continuación, se procede con el modelo de análisis estratégico .La fuente principal utilizada fue el libro del profesor Hugo Ricardo Ocaña “Estrategias de negocio", tercera edición del año 2016. En una primera parte del análisis estratégico, se calcula el valor empresario de la empresa, determinando fortalezas y debilidades de la misma. En la segunda parte, se realiza un análisis del sector de negocios donde se desenvuelve la empresa con el propósito de determinar las condiciones favorables o desfavorables del entorno. Y por último, se procede a la formulación de las estrategias, determinando las óptimas para 5to sueño.
+"""
+link_16848 = "https://bdigital.uncu.edu.ar/16848"
+
+# -----------------------------------------------------------------------------------------------------------
+Id_16770 = 16770
+titulo_16770 = "Análisis organizacional de una galería comercial"
+autor_16770 = "Abarca, Nuria Desirée"
+resumen_16770 = """
+El presente Trabajo de Investigación se refiere al Análisis Organizacional aplicado a la Galería Caracol, un centro comercial ubicado en el corazón de la Ciudad de Mendoza, inaugurado en Septiembre de 1978, la cual fue tendencia en sus primeros años por ser la primera galería con forma de espiral en Argentina y por su avanzada tecnología en aquellos tiempos. Sin embargo, con el paso de los años, de los cambios sociales, la moda y la economía se fue deteriorando, dando lugar a diversos problemas estructurales, económicos y administrativos. Es así que se llevó a cabo un análisis de las diversas variables que afectan a la organización, recurriendo a la aplicación de herramientas específicas de gestión de modo tal de lograr una posible mejora en su estructura y eventual funcionamiento, planteando en consecuencia propuestas de mejora conducentes a una óptima gestión. Para poder realizar este estudio, se tuvo acceso a diversa documentación y en especial el reglamento de propiedad horizontal. Se realizaron entrevistas a los administradores actuales de la Galería, así como también empleados de la misma y consorcistas, por otra parte, se recurrió a fuentes bibliográficas de carácter secundario que permita lograr así, los objetivos propuestos.
+"""
+link_16770 = "https://bdigital.uncu.edu.ar/16770"
+
+# -----------------------------------------------------------------------------------------------------------
+Id_16847 = 16847
+titulo_16847 = "Apertura de una cafetería apta para celíacos en Mendoza"
+autor_16847 = "Ramírez Díaz, Pamela Betiana"
+resumen_16847 = """
+El objetivo principal del trabajo de investigación fue desarrollar un plan de negocio para determinar la viabilidad para la apertura de una cafetería apta para celiacos en Mendoza. El mismo fue desarrollado en un contexto de pandemia, lo que llevó a realizar ciertas adaptaciones para garantizar la calidad del análisis. La selección del tema fue impulsada por la escasa oferta de productos en las cafeterías que puedan ser consumidos tranquilamente por personas que padezcan celiaquía o alguna enfermedad relacionada, siendo la dieta libre de gluten el único tratamiento posible. A su vez es un sector que se encuentra en crecimiento ya que con el paso del tiempo y la mejora de las tecnologías hay cada vez más personas diagnosticadas que consumen productos sin T.A.C.C. Inicialmente se realizó una investigación de mercado para conocer tanto a los posibles consumidores como a la futura competencia y conocer el entorno de la actualidad. Se llevaron a cabo encuestas en una muestra probabilística de la población, lo que permitió posteriormente estimar la demanda potencial y desarrollar un flujo de fondos para los próximos cinco años que arrojó como resultado una recuperación total de la inversión luego del segundo año. Finalmente, luego de analizar los resultados obtenidos se concluyó que es viable la apertura de una cafetería apta para celiacos considerando los resultados favorables obtenidos en el flujo de fondos y que hoy existe un mercado insatisfecho que está en crecimiento constante.
+"""
+link_16847 = "https://bdigital.uncu.edu.ar/16847"
+
+# -----------------------------------------------------------------------------------------------------------
+Id_16846 = 16846
+titulo_16846 = "Aportes del marketing digital a las empresas de la industria vitivinícola de la provincia de Mendoza en la crisis socioeconómica por el Covid-19"
+autor_16846 = "Porcario, Paula Sofía"
+resumen_16846 = """
+Este trabajo final indaga en la adaptación y evolución del Marketing Digital (MD) y sus herramientas a la que las empresas de la industria vitivinícola de la Provincia de Mendoza han tenido que recurrir durante el 2020 ante el contexto de Aislamiento Social Preventivo Obligatorio (ASPO) y Distanciamiento Social Preventivo y Obligatorio (DISPO) establecido en Argentina y paralelamente ante los diferentes períodos de restricciones y aislamientos impuestos en el resto del mundo, en respuesta a la crisis sanitario-económica producida por la pandemia del COVID-19, y cuanto de dichos avances y herramientas podrán subsistir una vez que haya pasado la crisis. Para abordar esta investigación, este trabajo se enfoca en un estudio general de las herramientas del MD, junto con sus aplicaciones a la mencionada industria posteriormente al surgimiento del Covid-19, ya que se pretende demostrar que si se acelera la introducción y adaptación de las herramientas del MD dentro de las empresas del rubro vitivinícola de la provincia de Mendoza con mayor relevancia durante la época de aislamientos tanto en Argentina como en el resto del mundo en respuesta a la crisis del Covid-19 durante el año 2020, los efectos negativos no serán tan nocivos como si no se aplicaran en absoluto. Para lo cual se lleva a cabo una metodología mediante un tipo de estudio descriptivo a través de una estrategia cualitativa y cuantitativa, con el propósito de obtener información de fuentes especializadas pertinentes con el tema de la investigación.
+"""
+link_16846 = "https://bdigital.uncu.edu.ar/16846"
+
+# -----------------------------------------------------------------------------------------------------------
+Id_16762 = 16762
+titulo_16762 = "Balance social"
+autor_16762 = "Roig, Mónica Johana"
+resumen_16762 = """
+Esta investigación se propone estudiar los tipos de balance social y las bases de su implementación, ya sea: desde la responsabilidad social empresaria o desde el paradigma del valor compartido, como una herramienta de gestión interna y desarrollo sostenible. El interés en el tema del trabajo de investigación surge de la necesidad de conocer más sobre esta herramienta, por su escasa utilización en la actualidad de forma voluntaria por las organizaciones y por el alto valor que aportaría a nivel de información de calidad en la gestión de negocios, tanto para quien lo confecciona como para quien sea su destinatario; siendo este el principal problema. El objetivo general de la presente investigación es la de analizar la forma y contenido del Balance social, su utilidad y la participación del contador público: desde la decisión de implementarlo hasta su posible auditoría; y determinar la eficacia de la información como herramienta de mejora continua. Así como también se busca poner en conocimiento nuevos reportes que pretender integrar la información financiera y no financiera, fomentando la transparencia de las organizaciones. Debido a la naturaleza del tema investigado se utilizará un enfoque descriptivo donde se realizará una investigación documental, junto con la realización de entrevistas a organizaciones del medio. Como resultado se cree que, con el ritmo acelerado de cambios tecnológicos, generación de información y sobre todo de un cambio de paradigma por parte del consumidor hacia la sostenibilidad, empujan a las organizaciones a mostrar su corazón, adoptando un balance social o en un futuro cercano un reporte integrado.
+"""
+link_16762 =  "https://bdigital.uncu.edu.ar/16762"
+
+# -----------------------------------------------------------------------------------------------------------
+Id_16740 = 16740
+titulo_16740 = "El capital intelectual en su dimensión estructural"
+autor_16740 = "Jofré, Shirley Brenda"
+resumen_16740 = """
+En las últimas décadas, el Capital Intelectual y el manejo de los intangibles han adquirido gran notoriedad, por lo que la necesidad de conocerlos y de gestionarlos se hace cada vez más evidente. A su vez, las empresas en su día a día buscan lograr eficiencia en sus procesos internos, los cuales forman una parte fundamental del Capital Intelectual en su dimensión estructural. Una gran parte de empresas no disponen de herramientas de gestión del Capital Intelectual ni de sus procesos que les faciliten una mejor gestión de los mismos. Por ende, en esta investigación, luego de conceptualizar el Capital Intelectual, distinguir sus dimensiones y algunas de sus herramientas de medición, se realiza un Tablero de Control aplicado al Departamento de Compras de una organización estatal mendocina en base a indicadores propios del Capital Estructural. De esta manera, se monitorea permanentemente el área mediante el uso de métricas y se busca poder brindar mayor eficiencia a sus procesos.
+"""
+link_16740 = "https://bdigital.uncu.edu.ar/16740"
+
+# -----------------------------------------------------------------------------------------------------------
+Id_16793 = 16793
+titulo_16793 = "El Coaching como herramienta de desarrollo personal para gestionar procesos de Cambio Organizacional"
+autor_16793 = "Barcarollo, Ángeles Luciana"
+resumen_16793 = """
+La presente investigación tiene como objetivo principal analizar y caracterizar el uso del coaching en un proceso de gestión de cambio organizacional; aportando una perspectiva de gestión del cambio orientada en el capital humano más que en los procesos. Posicionando, a su vez, esta herramienta como una estrategia clave de desarrollo personal que permita reducir la resistencia al cambio y facilitar el lineamiento de los objetivos personales a los objetivos organizacionales. De esta manera se pretende comprobar a través del análisis teórico práctico la hipótesis formulada para el presente estudio que refiere al Coaching considerado como un proceso de transformación y desarrollo que, según un estudio de investigación realizado por la Fundación de la Universidad de Palermo en el año 2017, contribuye a:  El cumplimiento de los objetivos organizacionales, a partir de un enfoque en los propósitos personales.  La motivación y satisfacción de los actores involucrados en el proceso de cambio.  Los niveles de eficacia y calidad frente a los cambios organizacionales, a partir de mitigar la resistencia frente a los mismos. Es así que el fundamento principal que motiva el interés y desarrollo del presente estudio surge a partir de la necesidad de aportar un enfoque diferente y complementario en las empresas de hoy a la hora de enfrentar sus procesos de cambios, ya que en la actualidad la mayoría de las organizaciones invierten el 90% de sus recursos para la gestión de cambios en aspectos técnicos; sin embargo los procesos de cambio siguen fallando principalmente porque son personas las que están involucradas y éstas presentan resistencia como una conducta natural. A través de esta investigación se pretende proponer como complemento para la gestión de cambios la herramienta del Coaching, aportando al proceso una perspectiva orientada en el capital humano y no solo en los procesos. De esta manera la investigación se sustenta desde la perspectiva de cambio y aprendizaje, entendida como la capacidad de adaptación de las organizaciones y sus actores a las diferentes transformaciones que sufre el entorno interno o externo mediante el aprendizaje, resaltando la importancia del proceso en los modelos mentales de cada uno de los actores involucrados, dejando como resultado un nuevo comportamiento organizacional. Por último, el análisis documental obtenido a través de una metodología descriptiva de la información se aplicó a un caso práctico que fue el que despertó la necesidad e interés en el objeto de estudio. El mismo refiere al departamento del Centro Integrado de Atención Telefónica-CIAT- de la firma EDEMSA, que enfrentó un proceso de cambio basado en el traspaso de una Cultura Organizacional a otra, a partir de la tercerización del servicio a la firma ACC GROUP SA, manteniendo el equipo de personas y sitio de trabajo en la empresa EDEMSA. La organización del trabajo gira en eje de tres capítulos principales: El primero refiere al Cambio Organizacional en el cual el lector se encontrará en primer lugar con un análisis de la Contextualización del Cambio bajo los diferentes aspectos que se deben considerar del mismo. En una segunda parte se desarrollan los aspectos referidos a la Gestión del Cambio, destacando como eje central de este apartado las etapas del proceso de cambio. El segundo capítulo hace referencia a la herramienta propuesta para gestionar el proceso de cambio: “El Coaching," donde se busca, en primer lugar, adentrar al lector en la historia de esta disciplina; continuando con el desarrollo en su campo de aplicación, haciendo foco en el ámbito de las Organizaciones y destacando los principales beneficios en este campo; finalizando con las etapas para llevar a cabo un acertado proceso de Coaching Organizacional. Por último, un tercer capítulo en donde se desarrolla el caso de aplicación práctica, a partir del cual se busca arribar a las conclusiones del presente trabajo de investigación.
+"""
+link_16793 = "https://bdigital.uncu.edu.ar/16793"
+
+# -----------------------------------------------------------------------------------------------------------
+Id_16807 = 16807
+titulo_16807 = "El comienzo de la importación de artículos deportivos por una empresa familiar"
+autor_16807 = "Busca, Valentina"
+resumen_16807 = """
+La empresa “Héctor Horacio Busca", nombre del dueño, es una empresa familiar dedicada a la compraventa de artículos deportivos tanto al por mayor como al por menor. El objetivo de este trabajo es plasmar todo el análisis y cada paso necesario, para que esta empresa pueda proveerse del mercado externo. En este trabajo se hablará de un determinado producto, conocido como “pisos encastrables de goma eva". El fin de este análisis es compararlo con la provisión en el mercado local y también analizar un enfoque comercial, impositivo y cambiario.
+"""
+link_16807 = "https://bdigital.uncu.edu.ar/16807"
+
+# -----------------------------------------------------------------------------------------------------------
+Id_16845 = 16845
+titulo_16845 = "Fintech, el futuro de la industria financiera"
+autor_16845 = "Peralta, Gabriel Alberto"
+resumen_16845 = """
+El presente trabajo de investigación tiene la finalidad de desarrollar una descripción completa de las organizaciones Fintech con la finalidad de dejar una base teórica que sirva de punto de partida para futuros análisis, con fines académicos o laborales, que busquen profundizar sobre algunos de los campos en los que se desarrollan las Fintech. Lograr una descripción que las defina y analice su estructura. Además, determinar en qué situación se encuentran actualmente en nuestro país, cuál es su posición frente a los bancos tradicionales y su perspectiva futura. En un mundo que tiende a la digitalización completa de todo lo relacionado a nuestra vida cotidiana, las empresas en la industria financiera deben acompañar este proceso de cambio, que no sólo es exigido por los clientes, sino que las situaciones, el contexto a veces nos obliga a volcarnos hacia herramientas digitales para poder desempeñar nuestras tareas diarias, cuestión que quedó evidenciada en la pandemia que comenzó en 2020 y en la que aún está sumido el mundo en estos tiempos. El enfoque adoptado en este trabajo de investigación es el “cualitativo" buscando desarrollar el concepto completo de Fintech sin seguir una secuencia rigurosa, avanzando en la investigación a medida que vayamos contestando los interrogantes planteados y los que surjan durante el trabajo. De acuerdo con este enfoque el tipo de estudio es por un lado, “teoría fundamentada", es decir, generar teoría a partir de los datos que se releven, de modo tal de generar una descripción completa de las Fintech y, por otro lado, “estudio de caso" aplicando todos los conceptos que analizados en la primera parte del trabajo. Se ha trabajado con fuentes secundarias confiables y debidamente trianguladas. Complementariamente, se han analizado datos primarios obtenidos a través de entrevistas personales a expertos en finanzas que nos dan una mirada prospectiva sobre estas organizaciones.
+"""
+link_16845 = "https://bdigital.uncu.edu.ar/16845"
+
+# -----------------------------------------------------------------------------------------------------------
+Id_16743 = 16743
+titulo_16743 = "Inserción en el campo laboral de los estudiantes universitarios avanzados de la carrera de Contador Publico Nacional de la UNCuyo entre los años 2016 y 2018"
+autor_16743 = "Martinez Pecoraro, Carla Vanina"
+resumen_16743 = """
+La presente investigación se centra en indagar sobre la inserción en el campo laboral de los estudiantes universitarios avanzados de la carrera Contador Público Nacional de la Universidad Nacional de Cuyo entre los años 2016 y 2018. Como objetivo se pretende analizar los tres factores más importantes que influirían en la inserción laboral de los estudiantes universitarios avanzados de la carrera de Contador Público. Como hipótesis general “se reconocen los siguientes factores: la realización de experiencias previas laborales, el grado de avance académico alcanzado y la inestabilidad económica del país". El presente trabajo de investigación consiste en un análisis cuantitativo, correlacional, transversal y no experimental. Se utilizó como herramienta de recolección de datos, encuestas a estudiantes de la carrera de Contador Público Nacional de la Facultad de Ciencias Económicas de la UNCuyo. Se realizó un análisis documental sobre la reglamentación de las pasantías, becas pre-profesionales universitarias y prácticas profesionales no rentadas, consideradas como experiencias previas laborales. Y también se realizó un análisis sobre los planes de estudio del año 1998 y del año 2019. Por otra parte, se llevó a cabo un análisis en base a la Encuesta Permanente de Hogares del Instituto Nacional de Estadísticas y Censos. Los resultados concluyen que los estudiantes que tuvieron experiencias previas laborales tienen mayor posibilidad de obtener su primer empleo. También se concluye que, a mayor grado de avance en la carrera, mayor posibilidad de obtener su primer empleo. Y, por último, que la inestabilidad económica afecta a la inserción laboral de los estudiantes universitarios avanzados.
+"""
+link_16743 = "https://bdigital.uncu.edu.ar/16743"
+
+# -----------------------------------------------------------------------------------------------------------
+Id_16830 = 16830
+titulo_16830 = "La necesidad de la pequeña y mediana empresa de contar con tienda online propia en un ambiente hostil"
+autor_16830 = "Mannino, Alejandro Fabian"
+resumen_16830 = """
+El presente trabajo tiene por objetivo analizar la situación actual de las pequeñas y medianas empresas argentinas, y en particular mendocinas, respecto a los canales de venta utilizados, espe-cíficamente el canal online. En un ambiente turbulento donde los cambios son cada vez más rápidos y mayores, las empresas deben adaptarse rápidamente para modificar sus estrategias de negocio, principalmente en tiem-pos donde las ventas presenciales se ven muy afectadas por la pandemia. Estos cambios, exigen entornos flexibles que proporcionen rápida respuesta a nuevas tendencias de los consumidores y donde el rol de la higiene y seguridad pasa a tener un papel fundamental en el año 2020. Para ello se pretende analizar el impacto en la generación de valor empresario mediante la in-corporación de una tienda online propia, no solamente con el objetivo de aumentar las ventas, sino también, lograr una mejora en la imagen organizacional, su reputación, posicionamiento y expe-riencia en el cliente. Mediante información secundaria, entrevistas personales y cuestionarios, se pretende identifi-car características de los consumidores argentinos, nuevas conductas de compra, comportamien-tos, así como las características de los directivos de PyMEs.
+"""
+link_16830 = "https://bdigital.uncu.edu.ar/16830"
+
+# -----------------------------------------------------------------------------------------------------------
+Id_16741 = 16741
+titulo_16741 = "La obra pública municipal"
+autor_16741 = "Córdoba, Agustina"
+resumen_16741 = """
+El análisis sobre la aplicación de la metodología de costos por órdenes de producción en las obras públicas es de suma importancia, ya que hay un interés común de los ciudadanos en una buena administración de los fondos públicos. La presente investigación se propone indagar cómo una adecuada aplicación de la metodología de costos permitiría un apropiado uso de los fondos públicos, asignando los costos correctamente. Permitiendo, además, brindar transparencia a la población sobre las acciones llevadas a cabo por el Estado. A partir de los datos obtenidos a través de un análisis de contenido, se analizan las características del costo y sus metodologías, y todo otro concepto necesario para una mejor comprensión. Luego se analiza el marco legal de la obra pública y su situación particular en la Municipalidad de Godoy Cruz, para finalmente estudiar la factibilidad de aplicar la metodología anteriormente mencionada en las obras públicas del municipio. Los resultados del presente trabajo de investigación indican que sí es aplicable la metodología de costos por órdenes de producción en una obra pública, siendo esta el método más idóneo para medir los costos, y por ende asegurar un buen uso de los recursos públicos. Esto le permitiría al Estado mejorar el cumplimiento de su objetivo primordial, que es el bienestar común de los ciudadanos, ya que a través de la obra pública se pueden satisfacer necesidades básicas importantes, tales como la educación, salud, seguridad y justicia; y mejorar la calidad de vida de los ciudadanos. También les permitiría a los gobernantes lograr una gestión eficiente y eficaz, para así poder cumplir con las obligaciones de su labor.
+"""
+link_16741 = "https://bdigital.uncu.edu.ar/16741"
+
+# -----------------------------------------------------------------------------------------------------------
+Id_16792 = 16792
+titulo_16792 = "Los instrumentos del Control de Gestión en el sector público y privado"
+autor_16792 = "Barale, Gonzalo"
+resumen_16792 = """
+El presente trabajo de investigación busca expresar el concepto de cada uno de los instrumentos de control de gestión en el sector público y privado. También la aplicación del control de gestión público a nivel nacional y en la provincia de Mendoza. Se propone dar a conocer en primer término la descripción del concepto de control de gestión. Luego se describen los distintos instrumentos del control de gestión en el sector privado. En tercera instancia se relata el control de gestión interno y externo, en el sector público nacional y de la provincia de Mendoza. Para finalizar con el trabajo de investigación se realiza el análisis de aspectos comunes y diferentes del control de gestión entre el sector público y privado.
+"""
+link_16792 = "https://bdigital.uncu.edu.ar/16792"
+
+# -----------------------------------------------------------------------------------------------------------
+Id_16808 = 16808
+titulo_16808 = "Los residuos como recursos"
+autor_16808 = "Caleau Zavattieri, Julián"
+resumen_16808 = """
+En el presente trabajo de investigación se analizó a la economía circular como una herramienta para el desarrollo sostenible de las economías y la sociedad, utilizando a la gestión de residuos para la creación de valor y considerando a estos últimos como materia prima dentro de procesos productivos para la generación de nuevos productos. En dicho estudio se han planteado conceptos para una transición desde una economía lineal (en la cual los recursos naturales son explotados para producir nuevos productos, los cuales son comercializados, utilizados y por último desechados) hacia una circular (en donde los desechos son reinsertados ya sea como recursos o como energía en los ciclos productivos). Luego de contextualizar la problemática que acarrean los residuos en nuestra sociedad a nivel internacional, nacional y provincial, se ha presentado a la gestión integral de residuos sólidos urbanos como una herramienta clave para la disminución de los desechos dispuestos en el medio ambiente. De esta manera se logra preservar la salud humana, mejorando la calidad de vida de los habitantes, y protegiendo el medio ambiente y los recursos naturales no renovables. De acuerdo al análisis realizado en este trabajo, se concluye que través de una correcta gestión de los residuos podemos generar un impacto positivo tanto en lo ambiental, como en lo social y económico, dando lugar a nuevas oportunidades de negocios en las cuales se considera a la basura, como un recurso que se encuentra en un lugar equivocado. Es así que se ha propuesto como caso de análisis al emprendimiento Maderas Plásticas Mendoza, como una empresa generadora de triple impacto, la cual contribuye en gran medida a la gestión de residuos con el reciclaje de plásticos como herramienta. Además, en la propuesta de mejora se plantea incrementar la capacidad efectiva sin necesidad de realizar inversiones.
+"""
+link_16808 = "https://bdigital.uncu.edu.ar/16808"
+
+# -----------------------------------------------------------------------------------------------------------
+Id_16765 = 16765
+titulo_16765 = "Pasado, presente y futuro de la Sociedad por Acciones Simplificadas (SAS)"
+autor_16765 = "Yúdica Sedano, Agustín"
+resumen_16765 = """
+La reciente creación de la Ley 27.349 (año 2017) ha introducido a las Sociedades por Acciones Simplificadas (de ahora en más S.A.S) como otro tipo societario de los ya previstas por la Ley General de Sociedades en su capítulo II, tales como las Sociedades de Responsabilidad Limitada (S.R.L), las Sociedades Anónimas (S.A) o entre otras. Este nuevo tipo societario ha sido utilizado para darle una forma jurídica a múltiples negocios, debido a la flexibilidad y libertad que esta presenta. De la misma manera que ha sido utilizada para el desarrollo de emprendimientos, ha sido también cuestionada por diversos aspectos. El presente trabajo de investigación se propone indagar sobre la problemática que presenta este nuevo tipo societario regulado por la reciente ley de Apoyo al Capital Emprendedor en su forma de aplicación a los negocios. Además, el estudio consiste en la aplicación de un esquema simple, sintético y que, por medio de leyes, notas, jurisprudencia, antecedentes, etc, busca entender las causas al origen de este tipo jurídico en distintos países y/o jurisdicciones, para de esta forma entender su pasado, presente y posible evolución hacia un futuro cercano. Los resultados indican que el presente trabajo de investigación es de conocimiento importante no solo para estudiantes sino también para el público en general, pudiendo de esta forma lograr fortalecer los conocimientos en materia económica, legal y otros campos sobre esta nueva forma de resguardar los patrimonios personales de los accionistas.
+"""
+link_16765 = "https://bdigital.uncu.edu.ar/16765"
+
+# -----------------------------------------------------------------------------------------------------------
+Id_16789 = 16789
+titulo_16789 = "Plan de negocios"
+autor_16789 = "Baggio Neme, María Agustina"
+resumen_16789 = """
+El presente trabajo tiene como objetivo analizar la viabilidad del proyecto de comercialización de los remolques Mactrail como Unidad de Negocio de la empresa Bécares en la Región de Cuyo. La elección del tema a investigar tiene su origen en la experiencia laboral de su autora, ya que la misma trabaja en dicha empresa. Con motivo de darle un marco formal a sus tareas laborales y ver realmente la viabilidad de la Unidad de Negocio, se plantea desarrollar un Plan de Negocios. Un Plan de Negocios es un documento formal elaborado por escrito que reúne toda la información necesaria para evaluar un negocio y los lineamientos generales para ponerlo en marcha. El mimo incluye: modelo de negocios, entorno externo, análisis financiero, análisis de riesgos y plan de aplicación. En dicho plan, se mostrarán conceptos teóricos aplicados a un análisis interno y externo, se desarrollarán las características de la empresa, cultura organizacional, recursos, canales de comunicación y un análisis financiero. Se utilizará como base para el análisis el Modelo Canvas como modelo de negocios. De este modo, el plan de negocios servirá a los directivos de la empresa como instrumento de análisis, y será fundamental como apoyo y respaldo al momento de la toma de decisiones. Objetivos  Analizar si es viable la comercialización de este producto en la Región.  Diseñar una estructura y modelo de trabajo para la empresa.  Incorporar la marca Bécares Trails en la comercialización de los remolques.  Encontrar un posicionamiento diferenciado para la empresa en esta unidad de negocio.  Elaborar un plan de negocios que sea factible para la nueva unidad de negocio y la empresa.
+"""
+link_16789 = "https://bdigital.uncu.edu.ar/16789"
+
+# -----------------------------------------------------------------------------------------------------------
+Id_16817 = 16817
+titulo_16817 = "Plan estratégico de negocios"
+autor_16817 = "Fernández, Fernanda Gimena"
+resumen_16817 = """
+Introducción sobre la idea de negocio: Dulces Gustos, Catering Duce es un proyecto familiar que pretende convertirse en una MiPyme que acompañe los festejos de sus clientes, adornando y endulzando los momentos más felices. Armar una mesa dulce para eventos familiares, empresariales y sociales, decorar y presentar los platos de forma personalizada. Esto implica un trabajo en conjunto del pastelero con su cliente, donde deberán definir la temática del evento para poder llevar a cabo un trabajo que cumpla con sus expectativas y se adapte al conjunto del festejo que se llevara a cabo. 2. Objetivos El objetivo principal del trabajo es proponer un plan de negocios que permita a la empresa lograr un óptimo desarrollo del negocio. Objetivos específicos:
+● Describir las características del negocio
+● Proponer un plan de acción para la puesta en marcha del negocio
+● Analizar y evaluar la viabilidad financiera
+● Proporcionar una base de análisis para futuras decisiones
+Problemática. Teniendo en cuenta que se ha detectado la existencia de un potencial mercado en el cual la empresa podrá prestar sus servicios y que la zona en la que se encuentra ubicado es ideal ya que está rodeado de muchos salones de fiesta, se puede ver como un posible obstáculo la falta experiencia y reconocimiento en el sector, y que al ser un mercado en auge y expansión nos encontramos con un gran número de competidores y de las más diversas características (emprendimientos familiares, pasteleros amateurs y también especializados, grandes empresas de catering que están ampliando su oferta hacia lo dulce, etc.) Otro de los puntos a tener en cuenta es la necesidad de financiamiento de los emprendedores para poner en marcha la idea de negocio. Considerando las tasa de interés y la situación económica del país, este tema se podría volver un gran obstáculo para la puesta en marcha del emprendimiento. Y sin lugar a duda no se puede dejar de mencionar la actual situación de pandemia en la cual estamos sumergidos desde marzo del corriente año. Esta no ha permitido que las actividades recreativas, de festejos y reuniones sociales se desarrollen normalmente, así es que el sector en el cual la empresa pretende ingresar se encuentre totalmente paralizado, dificultando plantear estrategias de ingreso y mucho más aun planificar a largo plazo. No se puede ingresar a un mercado que no tiene clientes, ya que no existe demanda por el impedimento de realizar eventos. No se conoce como será la nueva normativa que rija el desarrollo de eventos en el futuro, de la posibilidad de juntar personas de forma masiva en reuniones sociales, por lo cual el campo de acción de la empresa se ve totalmente afectado y marca un panorama incierto para los nuevos proyectos. 4. Hipótesis. Desarrollar la idea de negocio encuadrando a la empresa dentro de las Pequeñas y medianas empresas locales. Por lo tanto se busca posicionar la marca dentro del mercado de Mendoza, visualizando oportunidades y destacando fortalezas para lograr un adecuado desarrollo del negocio 5. Alcance y limitaciones del trabajo. En el siguiente trabajo se presenta el plan de negocios del proyecto de una Pastelería artesanal, “Dulces Gustos, Catering Dulce"", la cual estará ubicada en la zona de Coquimbito, Maipú. La principal oferta de este emprendimiento de Pastelería es la de brindar servicios de catering dulce y Candy Bar para distintos tipos de eventos. La propuesta del desarrollo de un Plan de Negocio se basa en la necesidad de determinar la viabilidad económica y financiera de la puesta en marcha de ésta idea, de este emprendimiento. Además de un análisis del entorno en el cual se va a insertar el negocio, las posibles estrategias que se deberán seguir para posicionarla en el mercado y de cómo debe proyectarse el negocio en el tiempo para sobrevivir y alcanzar sus objetivos.
+"""
+link_16817 = "https://bdigital.uncu.edu.ar/16817"
+
+# -----------------------------------------------------------------------------------------------------------
+Id_16761 = 16761
+titulo_16761 = "Presupuesto y control presupuestario en empresas mendocinas"
+autor_16761 = "Requelme, Damián Emiliano"
+resumen_16761 = """
+La implementación del control presupuestario en empresas mendocinas resulta de gran importancia debido al contexto inflacionario en el que están inmersas. La presente investigación se propone indagar si la utilización del presupuesto y control presupuestario en un contexto macroeconómico de alta incertidumbre resulta ser una herramienta de utilidad que pueda llevarse a cabo en cualquier tipo de organización con independencia de su estructura, rubro y localización geográfica. La investigación fue abordada con un enfoque cualitativo y cuantitativo a partir de la obtención de datos mediante la realización de entrevistas a empresarios, consultas de estadísticas de la información de cada organización en particular y la recolección de datos macroeconómicos oficiales del Gobierno Nacional. Luego se analizan las ventajas y desventajas que implica la utilización de la herramienta de gestión planteada. Los resultados indican que: 1) Todas las organizaciones pueden aplicar el presupuesto y control presupuestario debido a que son herramientas altamente flexibles pero requieren de una gran dedicación y comprensión del contexto en el que se desarrollan, 2) Aquellas empresas que logran aplicarlas son las que transitan con mayor facilidad los vaivenes económicos del sector y, 3) Las principales ventajas de su aplicación son la reducción de incertidumbre en la toma de decisiones, el logro de políticas empresariales, mayor estabilidad en el tiempo, menor impacto de las consecuencias que genere el contexto inflacionario.
+"""
+link_16761 = "https://bdigital.uncu.edu.ar/16761"
+
+# -----------------------------------------------------------------------------------------------------------
+Id_16850 = 16850
+titulo_16850 = "Problemáticas comunes en Pymes de Mendoza"
+autor_16850 = "Sabás, Mariano Alberto"
+resumen_16850 = """
+El siguiente trabajo de investigación busca analizar las características y problemáticas comunes de las Pequeñas y Medianas Empresas (Pymes), haciendo énfasis en las empresas familiares. Dada las generalidades presentadas por las empresas familiares, se pretende analizar un caso de una Pyme de la provincia de Mendoza, conocer sus características, fallas y posibles caminos para superarlas. En el capítulo I se analizarán a los protagonistas de las empresas, los emprendedores, destacando las particularidades que se pueden encontrar y las características destacadas de éstos. En el capítulo II se presentarán las Pymes, conociendo sus orígenes, las distintas presentaciones que existen y las características singulares de este tipo de organización. Asimismo, se expondrán datos estadísticos presentados por estas empresas en el año 2017 (antes de presentarse la pandemia por COVID 19). En el capítulo III se profundizará sobre el tema central del trabajo, las empresas familiares. Primero se comenzará presentado a la familia, las familias empresarias, el concepto de empresa familiar, las dificultades del trabajo en familia, las trampas que presentan las empresas de este tipo, las ventajas y desventajas de este tipo de organización, y por último los modelos de traspaso generacional, el protocolo familiar, y los modelos de gobierno de estas empresas. Para culminar, en el capítulo IV, se analizará primero de manera interna a la empresa MARGON S.R.L., una Pyme familiar, ubicada en el departamento de Godoy Cruz, Mendoza; y luego, mediante una planificación estratégica, se tratará de buscar estrategias para contrarrestar las dificultades que se presentan en esta organización.
+"""
+link_16850 = "https://bdigital.uncu.edu.ar/16850"
+
+# -----------------------------------------------------------------------------------------------------------
+Id_16786 = 16786
+titulo_16786 = "Sistema de gestión de la calidad"
+autor_16786 = "Aguilar, Esteban Mario"
+resumen_16786 = """
+Para brindar servicios de calidad no sólo es necesario hacer foco en los clientes externos de la organización, sino también en los internos: los miembros. En el presente trabajo se detalla una guía para desarrollar un Sistema de Gestión de la Calidad aplicado a la metodología de trabajo y misión particular de Vínculos Consultoría Empresarial, Empresa Junior de la Facultad de Ciencias Económicas de la Universidad Nacional de Cuyo. Su alcance es determinado por el proceso de gestión de miembros que lleva a cabo RRHH: Reclutamiento, Selección, Inducción, Seguimiento y Evaluación. La guía cumple con los estándares definidos en la Norma Internacional ISO 9001:2015 para la gestión eficaz de la calidad en los procesos de las organizaciones. A partir de un diagnóstico realizado a dicha Empresa Junior, se han sugerido herramientas y mejoras en los procesos de RRHH de manera que se ajusten a los requisitos que esta determina. Dada la correcta implementación del Sistema de Gestión de la Calidad se logrará:
+● proporcionar regularmente productos y servicios que satisfagan los requisitos del cliente y los legales y reglamentarios aplicables;
+● facilitar oportunidades de aumentar la satisfacción del cliente;
+● abordar los riesgos y oportunidades asociadas con su contexto y objetivos.
+● aprender a gestionar la calidad.
+● complementar la formación profesional brindada por la facultad.
+● elevar el estatus de la FCE al contar con una EJ que aplique los estándares ISO.
+● mejorar la imagen de la organización frente a la comunidad emprendedora, estudiantil y la sociedad en general.
+"""
+link_16786 = "https://bdigital.uncu.edu.ar/16786"
+
+# -----------------------------------------------------------------------------------------------------------
+Id_16763 = 16763
+titulo_16763 = "Teletrabajo en Mendoza"
+autor_16763 = "López, Jorge Damián"
+resumen_16763 = """
+El 2020 fue un año marcado por permanentes cambios, a raíz de la situación de emergencia sanitaria, SARS-COV 2 – COVID 19. Ésta originó que algunas empresas mendocinas se apoyaran en la figura del teletrabajo para poder continuar con sus actividades. Se entiende por teletrabajo a la realización de actos, ejecución de obras o prestación de servicios efectuada total o parcialmente en el domicilio de la persona que trabaja, o en lugares distintos al establecimiento o los establecimientos del empleador, mediante la utilización de tecnologías de la información y comunicación. Argentina hasta ese momento no contaba con una ley que lo regulase. Siendo la citada situación un impulso fundamental para la sanción de la ley 27.555. El objetivo de este trabajo de investigación es indagar sobre cómo fue la puesta en marcha del teletrabajo en las empresas mendocinas. La metodología propuesta consiste en llevar a cabo un relevamiento de material bibliográfico y legal que permita analizar los orígenes y evolución del teletrabajo en Argentina. Se completará esta investigación realizando cuestionarios y entrevistas a diferentes empresas y trabajadores mendocinos. Se espera obtener información útil en cuanto a la opinión y experiencia de las empresas y trabajadores. Identificar e interpretar los principales puntos de interés de la legislación vigente y sus críticas, y por último precisar las diferentes ventajas y desventajas. Es claro que el teletrabajo no ha sido asimilado en todas las empresas de igual manera. Principalmente la posibilidad de acceso al mismo dependerá del tipo de actividad, objeto y estructura de cada una. Se puede apreciar que las empresas del rubro de servicios fueron más permeables a esta figura, pero también otros rubros pudieron apoyarse en esta modalidad principalmente para sus sectores administrativos y de comercialización. Podemos concluir que la situación de emergencia sanitaria fue un gran impulso para tomar el teletrabajo como una alternativa laboral conveniente. También ha dejado en evidencia la necesidad de un cambio cultural por parte de la sociedad, y principalmente una mayor inversión por parte del Estado y de empresarios en tecnologías de información y comunicación para que ello se concrete.
+"""
+link_16763 = "https://bdigital.uncu.edu.ar/16763"
+
+# -----------------------------------------------------------------------------------------------------------
+Id_16742 = 16742
+titulo_16742 = "Tratamiento impositivo de las empresas de servicios digitales"
+autor_16742 = "Marcianesi, Agustí"
+resumen_16742 = """
+En las últimas décadas, se ha experimentado un gran y acelerado desarrollo en materia de tecnologías, un proceso reconocido mundialmente como globalización. El mundo se ha transformado y, como consecuencia de esto, ha repercutido, no solo en nuestra vida cotidiana, sino también en la forma de hacer negocios de las empresas, quienes se vieron obligadas a avanzar en esta materia para poder posicionarse de manera competitiva en un ámbito tan cambiante como el actual. Un claro ejemplo de este auge tecnológico son las transacciones virtuales y las plataformas informáticas, ya que fue a través de estas que se logró una nueva forma de comerciar que implica no solo velocidad sino también la posibilidad de ofrecer productos y servicios en cualquier punto del mundo. Sin embargo, mientras la tecnología crece de manera exponencial, los Estados presentan problemas para adaptarse a esta vorágine, puesto que, tanto su sistema como sus normas, fueron concebidos para permanecer casi sin modificaciones a través del tiempo. En Argentina, particularmente, esta evolución genera desafíos para el Estado en materia legal, así como también, en materia impositiva al momento de definir la forma de recaudación de los diferentes tributos. Dada la implicancia en las economías de los países y en los ingresos fiscales que obtienen a partir de los distintos gravámenes de que las normas impositivas deben necesariamente actualizarse frente a las nuevas actividades que emergen por este fenómeno tecnológico mundial, creemos interesante el análisis de estas normas en busca de la efectividad en los tratamientos impositivos, haciendo énfasis en la situación Argentina y presentando, además, un panorama mundial general acerca del mismo, ambos referidos a la actualidad a la fecha del presente trabajo.
+"""
+link_16742 = "https://bdigital.uncu.edu.ar/16742"
+
+# -----------------------------------------------------------------------------------------------------------
+Id_16816 = 16816
+titulo_16816 = "Troupper"
+autor_16816 = "Cunliffe Campoy, Matthew Thomas"
+resumen_16816 = """
+Cuando hablamos del Caribe asociamos dicha región con turismo, cruceros, ocio y vacaciones. Pues el atractivo principal de las islas centroamericanas es de hecho el turismo, que solo en el año 2019 contribuyó en USD$59 billones al PBI de dicha región, un 13.1% del PBI regional. Dicho esto, el foco siempre ha residido en el turismo por lo que muchos segmentos de negocio han quedado descubiertos. Uno de estos segmentos incluye transformación e innovación digital: a lo largo de las islas tanto empresas como personas continúan operando en “lápiz y papel". Como consecuencia, grandes distribuidores y empresas del sector poseen una estructura muy pobre y desordenada a tal punto que no poseen indicadores clave como facturación anual, producto más vendido o volumen de ventas; consumidores por su parte no poseen apps o portales para acceder a productos dejando como única opción asistir a los establecimientos para proceder con sus compras. Es aquí donde Troupper pretende innovar: queremos conectar consumidores y productores a través de una misma app, ofreciendo mayor variedad y visibilidad de productos a consumidores y, por otro lado, permitir a vendedores atravesar los confines de su local físico.
+"""
+link_16816 = "https://bdigital.uncu.edu.ar/16816"
+
+tesis = [(titulo_16848, autor_16848, resumen_16848, link_16848),
+         (titulo_16770, autor_16770, resumen_16770, link_16770),
+         (titulo_16847, autor_16847, resumen_16847, link_16847),
+         (titulo_16846, autor_16846, resumen_16846, link_16846),
+         (titulo_16762, autor_16762, resumen_16762, link_16762),
+         (titulo_16740, autor_16740, resumen_16740, link_16740),
+         (titulo_16793, autor_16793, resumen_16793, link_16793),
+         (titulo_16807, autor_16807, resumen_16807, link_16807),
+         (titulo_16845, autor_16845, resumen_16845, link_16845),
+         (titulo_16743, autor_16743, resumen_16743, link_16743),
+         (titulo_16830, autor_16830, resumen_16830, link_16830),
+         (titulo_16741, autor_16741, resumen_16741, link_16741),
+         (titulo_16792, autor_16792, resumen_16792, link_16792),
+         (titulo_16808, autor_16808, resumen_16808, link_16808),
+         (titulo_16765, autor_16765, resumen_16765, link_16765),
+         (titulo_16789, autor_16789, resumen_16789, link_16789),
+         (titulo_16817, autor_16817, resumen_16817, link_16817),
+         (titulo_16761, autor_16761, resumen_16761, link_16761),
+         (titulo_16850, autor_16850, resumen_16850, link_16850),
+         (titulo_16786, autor_16786, resumen_16786, link_16786),
+         (titulo_16763, autor_16763, resumen_16763, link_16763),
+         (titulo_16742, autor_16742, resumen_16742, link_16742),
+         (titulo_16816, autor_16816, resumen_16816, link_16816)
+]
