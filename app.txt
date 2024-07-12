@@ -1,1 +1,4 @@
 
+
+Hora: 2024-07-12 01:04:32
+{'user': {'tipo': 'estudiante', 'dni': '42508732', 'name': 'Joaquín Francisco', 'last_name': 'BARRIONUEVO MIRANDA'}}
