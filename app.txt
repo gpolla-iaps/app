@@ -1,16 +1,1 @@
 
-
-Hora: 2024-07-12 00:20:29
-{'user': {'tipo': 'estudiante', 'dni': '42508732', 'name': 'Joaquín Francisco', 'last_name': 'BARRIONUEVO MIRANDA', 'legajo': '32494', 'mail': 'joa-barrio10@hotmail.com', 'carrera': 'Licenciatura en Logística', 'sede': 'Sede Este'}}
-
-Hora: 2024-07-12 00:23:11
-{'user': {'tipo': 'estudiante', 'dni': '42508732', 'name': 'Joaquín Francisco', 'last_name': 'BARRIONUEVO MIRANDA'}}
-
-Hora: 2024-07-12 00:30:10
-{'user': {'tipo': 'estudiante', 'dni': '42508732', 'name': 'Joaquín Francisco', 'last_name': 'BARRIONUEVO MIRANDA'}}
-
-Hora: 2024-07-12 00:31:14
-{'user': {'tipo': 'estudiante', 'dni': '42508732', 'name': 'Joaquín Francisco', 'last_name': 'BARRIONUEVO MIRANDA'}}
-
-Hora: 2024-07-12 00:33:45
-{'user': {'tipo': 'estudiante', 'dni': '42508732', 'name': 'Joaquín Francisco', 'last_name': 'BARRIONUEVO MIRANDA'}}
