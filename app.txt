@@ -8,3 +8,6 @@ Hora: 2024-07-12 00:23:11
 
 Hora: 2024-07-12 00:30:10
 {'user': {'tipo': 'estudiante', 'dni': '42508732', 'name': 'Joaquín Francisco', 'last_name': 'BARRIONUEVO MIRANDA'}}
+
+Hora: 2024-07-12 00:31:14
+{'user': {'tipo': 'estudiante', 'dni': '42508732', 'name': 'Joaquín Francisco', 'last_name': 'BARRIONUEVO MIRANDA'}}
