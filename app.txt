@@ -5,3 +5,6 @@ Hora: 2024-07-12 01:04:32
 
 Hora: 2024-07-12 01:06:41
 {'user': {'tipo': 'sin definir', 'dni': '27062102', 'name': '', 'last_name': ''}}
+
+Hora: 2024-07-12 01:07:34
+{'user': {'tipo': 'nodocente', 'dni': '34807966', 'name': 'Jose Emanuel', 'last_name': 'QUINTEROS'}}
