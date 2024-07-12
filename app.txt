@@ -1,1 +1,4 @@
 
+
+Hora: 2024-07-12 00:20:29
+{'user': {'tipo': 'estudiante', 'dni': '42508732', 'name': 'Joaquín Francisco', 'last_name': 'BARRIONUEVO MIRANDA', 'legajo': '32494', 'mail': 'joa-barrio10@hotmail.com', 'carrera': 'Licenciatura en Logística', 'sede': 'Sede Este'}}
