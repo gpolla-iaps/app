@@ -44,3 +44,6 @@ Hora: 2024-07-13 19:38:19
 
 Hora: 2024-07-13 19:40:51
 {'user': {'tipo': 'estudiante', 'dni': '30987863', 'name': 'Ailín Katherina', 'last_name': 'GIMENEZ'}}
+
+Hora: 2024-07-13 20:21:15
+{'user': {'tipo': 'estudiante', 'dni': '30987863', 'name': 'Ailín Katherina', 'last_name': 'GIMENEZ'}}
