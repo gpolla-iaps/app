@@ -23,3 +23,6 @@ Hora: 2024-07-13 19:16:22
 
 Hora: 2024-07-13 19:22:53
 {'user': {'tipo': 'nodocente', 'dni': '34807966', 'name': 'Jose Emanuel', 'last_name': 'QUINTEROS'}}
+
+Hora: 2024-07-13 19:24:54
+{'user': {'tipo': 'estudiante', 'dni': '30987863', 'name': 'Ailín Katherina', 'last_name': 'GIMENEZ'}}
