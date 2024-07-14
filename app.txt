@@ -56,3 +56,6 @@ Hora: 2024-07-14 02:16:55
 
 Hora: 2024-07-14 02:32:43
 {'user': {'tipo': 'estudiante', 'dni': '42508732', 'name': 'Joaquín Francisco', 'last_name': 'BARRIONUEVO MIRANDA'}}
+
+Hora: 2024-07-14 02:32:55
+{'user': {'tipo': 'estudiante', 'dni': '42508732', 'name': 'Joaquín Francisco', 'last_name': 'BARRIONUEVO MIRANDA'}}
