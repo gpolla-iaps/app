@@ -32,3 +32,6 @@ Hora: 2024-07-17 00:51:48
 
 Hora: 2024-07-17 00:57:30
 {'user': {'tipo': 'estudiante', 'dni': '30987863', 'name': 'Ailín Katherina', 'last_name': 'GIMENEZ'}}
+
+Hora: 2024-07-17 01:46:03
+{'user': {'tipo': 'docente', 'dni': '23901346', 'name': 'María Fernanda', 'last_name': 'MARADONA'}}
