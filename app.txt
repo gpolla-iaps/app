@@ -1,1 +1,4 @@
 
+
+Hora: 2024-07-16 23:04:30
+{'user': {'tipo': 'estudiante', 'dni': '30987863', 'name': 'Ailín Katherina', 'last_name': 'GIMENEZ'}}
