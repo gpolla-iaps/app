@@ -5,3 +5,6 @@ Hora: 2024-07-16 23:04:30
 
 Hora: 2024-07-16 23:04:47
 {'user': {'tipo': 'estudiante', 'dni': '30987863', 'name': 'Ailín Katherina', 'last_name': 'GIMENEZ'}}
+
+Hora: 2024-07-17 00:01:48
+{'user': {'tipo': 'docente', 'dni': '23901346', 'name': 'María Fernanda', 'last_name': 'MARADONA'}}
