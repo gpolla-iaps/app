@@ -35,3 +35,6 @@ Hora: 2024-07-17 00:57:30
 
 Hora: 2024-07-17 01:46:03
 {'user': {'tipo': 'docente', 'dni': '23901346', 'name': 'María Fernanda', 'last_name': 'MARADONA'}}
+
+Hora: 2024-07-22 11:11:37
+{'user': {'tipo': 'estudiante', 'dni': '44537146', 'name': 'Yamile Nahir', 'last_name': 'ACEVEY CHUQUI'}}
