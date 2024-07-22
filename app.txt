@@ -38,3 +38,6 @@ Hora: 2024-07-17 01:46:03
 
 Hora: 2024-07-22 11:11:37
 {'user': {'tipo': 'estudiante', 'dni': '44537146', 'name': 'Yamile Nahir', 'last_name': 'ACEVEY CHUQUI'}}
+
+Hora: 2024-07-22 11:19:47
+{'user': {'tipo': 'estudiante', 'dni': '42508732', 'name': 'Joaquín Francisco', 'last_name': 'BARRIONUEVO MIRANDA'}}
