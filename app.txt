@@ -8,3 +8,6 @@ Hora: 2024-07-23 10:33:57
 
 Hora: 2024-07-23 10:36:40
 {'user': {'tipo': 'nodocente', 'dni': '34807966', 'name': 'Jose Emanuel', 'last_name': 'QUINTEROS'}}
+
+Hora: 2024-07-23 10:51:29
+{'user': {'tipo': 'docente', 'dni': '23901346', 'name': 'María Fernanda', 'last_name': 'MARADONA'}}
