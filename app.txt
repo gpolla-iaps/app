@@ -8,3 +8,6 @@ Hora: 2024-07-23 10:33:57
 
 Hora: 2024-07-23 11:12:01
 {'user': {'tipo': 'sin definir', 'dni': '22250181', 'name': '', 'last_name': ''}}
+
+Hora: 2024-07-23 11:12:05
+{'user': {'tipo': 'sin definir', 'dni': '22250181', 'name': '', 'last_name': ''}}
