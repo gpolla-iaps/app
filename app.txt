@@ -2,3 +2,6 @@
 
 Hora: 2024-07-23 07:48:35
 {'user': {'tipo': 'estudiante', 'dni': '42508732', 'name': 'Joaquín Francisco', 'last_name': 'BARRIONUEVO MIRANDA'}}
+
+Hora: 2024-07-23 10:33:57
+{'user': {'tipo': 'nodocente', 'dni': '34807966', 'name': 'Jose Emanuel', 'last_name': 'QUINTEROS'}}
