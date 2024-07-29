@@ -14,3 +14,6 @@ Hora: 2024-07-23 11:12:05
 
 Hora: 2024-07-23 11:12:50
 {'user': {'tipo': 'nodocente', 'dni': '34807966', 'name': 'Jose Emanuel', 'last_name': 'QUINTEROS'}}
+
+Hora: 2024-07-29 10:55:33
+{'user': {'tipo': 'nodocente', 'dni': '34807966', 'name': 'Jose Emanuel', 'last_name': 'QUINTEROS'}}
