@@ -23,3 +23,6 @@ Hora: 2024-07-29 14:30:39
 
 Hora: 2024-07-29 14:30:50
 {'user': {'tipo': 'nodocente', 'dni': '18169582', 'name': 'Guillermo Alfredo', 'last_name': 'SANDEZ'}}
+
+Hora: 2024-07-31 08:34:18
+{'user': {'tipo': 'estudiante', 'dni': '42508732', 'name': 'Joaquín Francisco', 'last_name': 'BARRIONUEVO MIRANDA'}}
