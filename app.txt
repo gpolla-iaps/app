@@ -44,3 +44,6 @@ Hora: 2024-08-02 12:36:20
 
 Hora: 2024-08-02 12:37:07
 {'user': {'tipo': 'nodocente', 'dni': '28689345', 'name': 'Jorge Nicolas', 'last_name': 'LOPEZ'}}
+
+Hora: 2024-08-02 12:37:54
+{'user': {'tipo': 'nodocente', 'dni': '28689345', 'name': 'Jorge Nicolas', 'last_name': 'LOPEZ'}}
