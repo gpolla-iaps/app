@@ -32,3 +32,6 @@ Hora: 2024-08-02 12:11:00
 
 Hora: 2024-08-02 12:23:24
 {'user': {'tipo': 'nodocente', 'dni': '20452696', 'name': 'Guillermo Alberto', 'last_name': 'CARRIO'}}
+
+Hora: 2024-08-02 12:27:28
+{'user': {'tipo': 'nodocente', 'dni': '41868931', 'name': 'Diego', 'last_name': 'FLORES'}}
