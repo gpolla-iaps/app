@@ -104,3 +104,6 @@ Hora: 2024-08-02 13:52:33
 
 Hora: 2024-08-02 13:58:34
 {'user': {'tipo': 'estudiante', 'dni': '42011053', 'name': 'Solana Valentina', 'last_name': 'GOMEZ'}}
+
+Hora: 2024-08-02 13:58:40
+{'user': {'tipo': 'estudiante', 'dni': '42011053', 'name': 'Solana Valentina', 'last_name': 'GOMEZ'}}
