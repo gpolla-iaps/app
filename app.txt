@@ -71,3 +71,6 @@ Hora: 2024-08-02 12:39:28
 
 Hora: 2024-08-02 12:41:50
 {'user': {'tipo': 'estudiante', 'dni': '46476201', 'name': 'Florencia Marcela', 'last_name': 'NAVARRO'}}
+
+Hora: 2024-08-02 12:57:05
+{'user': {'tipo': 'estudiante', 'dni': '19070005', 'name': 'Claudio Josue', 'last_name': 'PEÑA REYES'}}
