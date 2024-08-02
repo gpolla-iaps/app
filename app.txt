@@ -92,3 +92,6 @@ Hora: 2024-08-02 12:57:43
 
 Hora: 2024-08-02 12:57:51
 {'user': {'tipo': 'estudiante', 'dni': '19070005', 'name': 'Claudio Josue', 'last_name': 'PEÑA REYES'}}
+
+Hora: 2024-08-02 12:57:58
+{'user': {'tipo': 'estudiante', 'dni': '19070005', 'name': 'Claudio Josue', 'last_name': 'PEÑA REYES'}}
