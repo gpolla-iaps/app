@@ -119,3 +119,6 @@ Hora: 2024-08-02 14:46:33
 
 Hora: 2024-08-02 14:46:57
 {'user': {'tipo': 'estudiante', 'dni': '40272625', 'name': 'Sol Marina', 'last_name': 'DIAZ DEMANUELLI'}}
+
+Hora: 2024-08-02 14:46:59
+{'user': {'tipo': 'estudiante', 'dni': '40272625', 'name': 'Sol Marina', 'last_name': 'DIAZ DEMANUELLI'}}
