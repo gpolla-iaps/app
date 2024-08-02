@@ -134,3 +134,6 @@ Hora: 2024-08-02 20:51:59
 
 Hora: 2024-08-02 20:52:07
 {'user': {'tipo': 'nodocente', 'dni': '38416355', 'name': 'Leandro Manuel', 'last_name': 'PLAZA PUGA'}}
+
+Hora: 2024-08-02 20:52:09
+{'user': {'tipo': 'nodocente', 'dni': '38416355', 'name': 'Leandro Manuel', 'last_name': 'PLAZA PUGA'}}
