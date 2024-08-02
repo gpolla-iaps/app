@@ -68,3 +68,6 @@ Hora: 2024-08-02 12:39:15
 
 Hora: 2024-08-02 12:39:28
 {'user': {'tipo': 'nodocente', 'dni': '28689345', 'name': 'Jorge Nicolas', 'last_name': 'LOPEZ'}}
+
+Hora: 2024-08-02 12:41:50
+{'user': {'tipo': 'estudiante', 'dni': '46476201', 'name': 'Florencia Marcela', 'last_name': 'NAVARRO'}}
