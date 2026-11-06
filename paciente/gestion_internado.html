@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pacientes · Gestión de internados</title>
+<style>
+:root{--bg:#0b3d3d;--card:#104b4a;--edge:rgba(125,215,207,.22);--txt:#d5e8e8;--muted:#a9c8c8;--accent:#4bd5c7}
+*{box-sizing:border-box}
+html,body{margin:0;min-height:100%;font-family:system-ui,-apple-system,"Segoe UI",Arial,sans-serif}
+body{background:var(--bg);color:var(--txt);padding:clamp(16px,3vw,32px)}
+.eyebrow{color:var(--accent);text-transform:uppercase;letter-spacing:.12em;font-weight:750;font-size:11px}
+h1{margin:8px 0;font-size:clamp(24px,3vw,35px)}
+.lead{max-width:880px;color:var(--muted);line-height:1.55;font-size:14px;margin:0 0 26px}
+.header{display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px;align-items:center}
+.flag{font-size:11px;border:1px solid var(--edge);border-radius:100px;padding:8px 12px;color:var(--muted)}
+.section-heading{font-size:16px;margin:30px 0 14px}
+.flow{display:flex;align-items:stretch;gap:9px;flex-wrap:wrap}
+.flow-step{flex:1 1 150px;min-width:0;border:1px solid var(--edge);background:rgba(75,213,199,.07);padding:14px;border-radius:11px}
+.flow-step strong{display:block;font-size:13px;margin-bottom:5px}
+.flow-step span{font-size:11px;color:var(--muted);line-height:1.5}
+.flow-arrow{align-self:center;color:var(--accent);font-size:19px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px}
+.card{border:1px solid var(--edge);border-radius:13px;background:var(--card);padding:18px;min-height:160px}
+.symbol{display:inline-grid;place-items:center;width:36px;height:36px;border:1px solid var(--edge);border-radius:10px;background:rgba(75,213,199,.09);font-size:18px;color:var(--accent)}
+.card h3{font-size:14px;margin:13px 0 6px}
+.card p{font-size:12px;line-height:1.55;color:var(--muted);margin:0}
+.strip{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px}
+.mini{border:1px solid var(--edge);border-radius:12px;padding:14px;background:rgba(6,34,35,.22)}
+.mini strong{display:block;font-size:13px;margin-bottom:5px}
+.mini span{font-size:11px;color:var(--muted);line-height:1.45}
+.footnote{font-size:11px;color:var(--muted);margin-top:26px;border-top:1px solid var(--edge);padding-top:14px}
+@media(max-width:640px){.flow-arrow{display:none}.flow-step{flex-basis:100%}}
+</style>
+</head>
+<body>
+<div class="header"><div><div class="eyebrow">Pacientes / Internación</div><h1>Gestión de internados</h1></div><span class="flag">Vista conceptual del módulo</span></div>
+<p class="lead">Administración integral de pacientes internados: prestaciones, consumos, solicitudes a servicios, pedidos a Farmacia e integración con áreas asistenciales para acompañar toda la internación hasta el alta.</p>
+<h2 class="section-heading">Circuito de internación</h2>
+<div class="flow" aria-label="Circuito ilustrativo de gestión de internados">
+<div class="flow-step"><strong>1. Evolución</strong><span>Carga de prestaciones, estudios y consumos del paciente internado</span></div><span class="flow-arrow" aria-hidden="true">→</span>
+<div class="flow-step"><strong>2. Solicitudes</strong><span>Pedidos a servicios de diagnóstico y a Farmacia</span></div><span class="flow-arrow" aria-hidden="true">→</span>
+<div class="flow-step"><strong>3. Integración</strong><span>Visualización y respuesta de Laboratorio, Imágenes y otros servicios</span></div><span class="flow-arrow" aria-hidden="true">→</span>
+<div class="flow-step"><strong>4. Alta</strong><span>Cierre de internación y generación automática de códigos prestacionales</span></div>
+</div>
+<h2 class="section-heading">Funciones del módulo</h2>
+<div class="grid">
+<article class="card"><span class="symbol">⊞</span><h3>Prestaciones a internados</h3><p>Carga de prestaciones realizadas a pacientes internados, con seguimiento administrativo y asistencial.</p></article>
+<article class="card"><span class="symbol">💊</span><h3>Medicamentos y consumos</h3><p>Registro de medicamentos, descartables y otros elementos consumidos por cada paciente.</p></article>
+<article class="card"><span class="symbol">🧾</span><h3>Solicitudes de estudios</h3><p>Carga de pedidos a servicios diagnósticos para que sean visualizados por los responsables de realizar cada prestación.</p></article>
+<article class="card"><span class="symbol">⇄</span><h3>Cierre de internación</h3><p>Cierre con motivo de alta y generación automática de los códigos prestacionales de los días de pensión consumidos.</p></article>
+<article class="card"><span class="symbol">🏥</span><h3>Pedidos a Farmacia</h3><p>Solicitud de medicamentos, incluyendo dosis diarias y emisión de resúmenes de medicación por día para Historia Clínica Online.</p></article>
+<article class="card"><span class="symbol">⛓</span><h3>Integración de servicios</h3><p>Conexión con Diagnóstico por Imágenes, Laboratorio y otros servicios, además de integración específica con Farmacia.</p></article>
+</div>
+<h2 class="section-heading">Áreas integradas</h2>
+<div class="strip" aria-label="Áreas relacionadas con gestión de internados">
+<div class="mini"><strong>Farmacia</strong><span>Recepción de pedidos, dosis diarias y conciliación de medicación.</span></div>
+<div class="mini"><strong>Laboratorio</strong><span>Visualización y resolución de solicitudes de estudios clínicos.</span></div>
+<div class="mini"><strong>Diagnóstico por Imágenes</strong><span>Acceso a órdenes de trabajo y coordinación de prácticas solicitadas.</span></div>
+<div class="mini"><strong>Historia Clínica Online</strong><span>Disponibilidad del resumen de medicación y la trazabilidad de la internación.</span></div>
+</div>
+<p class="footnote">Representación gráfica de las funciones previstas. Este boceto no carga consumos reales ni genera códigos prestacionales operativos.</p>
+</body>
+</html>

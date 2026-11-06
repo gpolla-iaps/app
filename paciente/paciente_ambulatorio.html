@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pacientes · Recepción ambulatoria</title>
+<style>
+:root{--bg:#0b3d3d;--card:#104b4a;--edge:rgba(125,215,207,.22);--txt:#d5e8e8;--muted:#a9c8c8;--accent:#4bd5c7}
+*{box-sizing:border-box}
+html,body{margin:0;min-height:100%;font-family:system-ui,-apple-system,"Segoe UI",Arial,sans-serif}
+body{background:var(--bg);color:var(--txt);padding:clamp(16px,3vw,32px)}
+.eyebrow{color:var(--accent);text-transform:uppercase;letter-spacing:.12em;font-weight:750;font-size:11px}
+h1{margin:8px 0;font-size:clamp(24px,3vw,35px)}
+.lead{max-width:760px;color:var(--muted);line-height:1.55;font-size:14px;margin:0 0 26px}
+.header{display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px;align-items:center}
+.flag{font-size:11px;border:1px solid var(--edge);border-radius:100px;padding:8px 12px;color:var(--muted)}
+.section-heading{font-size:16px;margin:30px 0 14px}
+.flow{display:flex;align-items:stretch;gap:9px;flex-wrap:wrap}
+.flow-step{flex:1 1 145px;min-width:0;border:1px solid var(--edge);background:rgba(75,213,199,.07);padding:14px;border-radius:11px}
+.flow-step strong{display:block;font-size:13px;margin-bottom:5px}
+.flow-step span{font-size:11px;color:var(--muted);line-height:1.5}
+.flow-arrow{align-self:center;color:var(--accent);font-size:19px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(215px,1fr));gap:14px}
+.card{border:1px solid var(--edge);border-radius:13px;background:var(--card);padding:18px;min-height:151px}
+.symbol{display:inline-grid;place-items:center;width:36px;height:36px;border:1px solid var(--edge);border-radius:10px;background:rgba(75,213,199,.09);font-size:18px;color:var(--accent)}
+.card h3{font-size:14px;margin:13px 0 6px}
+.card p{font-size:12px;line-height:1.55;color:var(--muted);margin:0}
+.footnote{font-size:11px;color:var(--muted);margin-top:26px;border-top:1px solid var(--edge);padding-top:14px}
+@media(max-width:640px){.flow-arrow{display:none}.flow-step{flex-basis:100%}}
+</style>
+</head>
+<body>
+<div class="header"><div><div class="eyebrow">Pacientes / Gestión</div><h1>Recepción de pacientes ambulatorios</h1></div><span class="flag">Vista conceptual del módulo</span></div>
+<p class="lead">Gestión de la llegada de pacientes con turno o por demanda espontánea, registro de atenciones, copagos y coordinación de prácticas diagnósticas.</p>
+<h2 class="section-heading">Circuito de recepción</h2>
+<div class="flow" aria-label="Circuito ilustrativo de atención ambulatoria">
+<div class="flow-step"><strong>1. Recepción</strong><span>Turno asignado o demanda espontánea</span></div><span class="flow-arrow" aria-hidden="true">→</span>
+<div class="flow-step"><strong>2. Coseguro</strong><span>Cálculo según financiador y plan</span></div><span class="flow-arrow" aria-hidden="true">→</span>
+<div class="flow-step"><strong>3. Atención</strong><span>Edición y seguimiento administrativo</span></div><span class="flow-arrow" aria-hidden="true">→</span>
+<div class="flow-step"><strong>4. Prácticas</strong><span>Órdenes de trabajo para diagnóstico</span></div>
+</div>
+<h2 class="section-heading">Funciones del módulo</h2>
+<div class="grid">
+<article class="card"><span class="symbol">◉</span><h3>Recepción de pacientes</h3><p>Recepción de pacientes con turnos previamente asignados y de quienes concurren por demanda espontánea.</p></article>
+<article class="card"><span class="symbol">$</span><h3>Coseguros y copagos</h3><p>Cálculo automático de importes a abonar según el financiador y el plan del paciente.</p></article>
+<article class="card"><span class="symbol">✎</span><h3>Edición de atenciones</h3><p>Acceso a la edición de las atenciones registradas.</p></article>
+<article class="card"><span class="symbol">▤</span><h3>Órdenes de trabajo</h3><p>Generación de órdenes para prácticas de diagnóstico.</p></article>
+<article class="card"><span class="symbol">≡</span><h3>Listados de atenciones</h3><p>Consulta de atenciones por usuario, financiador, servicio y prestador.</p></article>
+<article class="card"><span class="symbol">▦</span><h3>Autorrecepción y filas</h3><p>Terminales de autorrecepción para pacientes y herramientas de ordenamiento de filas.</p></article>
+</div>
+<p class="footnote">Representación gráfica de las funciones previstas. Este boceto no registra pacientes, calcula copagos ni genera órdenes reales.</p>
+</body>
+</html>

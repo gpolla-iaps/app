@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pacientes · Turnos</title>
+<style>
+:root{--bg:#0b3d3d;--card:#104b4a;--edge:rgba(125,215,207,.22);--txt:#d5e8e8;--muted:#a9c8c8;--accent:#4bd5c7}
+*{box-sizing:border-box}html,body{margin:0;min-height:100%;font-family:system-ui,-apple-system,"Segoe UI",Arial,sans-serif}body{background:var(--bg);color:var(--txt);padding:clamp(16px,3vw,32px)}.eyebrow{color:var(--accent);text-transform:uppercase;letter-spacing:.12em;font-weight:750;font-size:11px}h1{margin:8px 0;font-size:clamp(24px,3vw,35px)}.lead{max-width:740px;color:var(--muted);line-height:1.55;font-size:14px;margin:0 0 26px}.header{display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px;align-items:center}.flag{font-size:11px;border:1px solid var(--edge);border-radius:100px;padding:8px 12px;color:var(--muted)}.section-heading{font-size:16px;margin:30px 0 14px}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:14px}.card{border:1px solid var(--edge);border-radius:13px;background:var(--card);padding:18px;min-height:133px}.symbol{display:inline-grid;place-items:center;width:35px;height:35px;border:1px solid var(--edge);border-radius:10px;background:rgba(75,213,199,.09);font-size:18px;color:var(--accent)}.card h3{font-size:14px;margin:13px 0 6px}.card p{font-size:12px;line-height:1.5;color:var(--muted);margin:0}.status{display:flex;flex-wrap:wrap;gap:10px;margin:8px 0 3px}.chip{display:flex;align-items:center;gap:8px;border:1px solid var(--edge);padding:9px 12px;border-radius:8px;font-size:12px;color:var(--txt)}.dot{width:9px;height:9px;border-radius:50%}.reserved{background:#eab75a}.waiting{background:#69b5f4}.seen{background:#67d8ad}.footnote{font-size:11px;color:var(--muted);margin-top:26px;border-top:1px solid var(--edge);padding-top:14px}
+</style>
+</head>
+<body>
+<div class="header"><div><div class="eyebrow">Pacientes / Gestión</div><h1>Turnos</h1></div><span class="flag">Vista conceptual del módulo</span></div>
+<p class="lead">Administración de agendas, reserva y seguimiento de turnos, autogestión del paciente y organización de la atención.</p>
+<h2 class="section-heading">Agendas y disponibilidad</h2>
+<div class="grid">
+<article class="card"><span class="symbol">▦</span><h3>Configuración de agendas</h3><p>Agendas por servicio y profesional; acceso por día, semana o servicio.</p></article>
+<article class="card"><span class="symbol">◷</span><h3>Primer turno disponible</h3><p>Búsqueda de disponibilidad y topes diarios por financiador.</p></article>
+<article class="card"><span class="symbol">＋</span><h3>Entreturnos</h3><p>Sobreturnos con límites por día para cada profesional.</p></article>
+<article class="card"><span class="symbol">▤</span><h3>Excepciones y feriados</h3><p>Modificación del cronograma habitual y registro de feriados.</p></article>
+</div>
+<h2 class="section-heading">Reservas y atención</h2>
+<div class="status" aria-label="Referencias de estados de turnos"><span class="chip"><span class="dot reserved"></span>Reservado</span><span class="chip"><span class="dot waiting"></span>En espera</span><span class="chip"><span class="dot seen"></span>Atendido</span></div>
+<div class="grid" style="margin-top:14px">
+<article class="card"><span class="symbol">◉</span><h3>Estados por colores</h3><p>Identificación visual de turnos reservados, pacientes en espera y atendidos.</p></article>
+<article class="card"><span class="symbol">▣</span><h3>Turnos múltiples</h3><p>Sesiones de tratamiento y turnos para distintos servicios durante un mismo día.</p></article>
+<article class="card"><span class="symbol">♧</span><h3>Llamador de pacientes</h3><p>Organización del llamado de pacientes en la sala de espera.</p></article>
+</div>
+<h2 class="section-heading">Autogestión y comunicación</h2>
+<div class="grid">
+<article class="card"><span class="symbol">▧</span><h3>Autogestión web</h3><p>Reserva de turnos por parte de los pacientes desde la web.</p></article>
+<article class="card"><span class="symbol">▢</span><h3>Terminal touch-screen</h3><p>Autogestión desde terminales táctiles ubicadas en salas de espera.</p></article>
+<article class="card"><span class="symbol">✉</span><h3>Recordatorios</h3><p>Notificaciones de turnos por correo electrónico, IVR y SMS.</p></article>
+<article class="card"><span class="symbol">≡</span><h3>Listados de turnos</h3><p>Consultas y listados por servicio, profesional y financiador.</p></article>
+</div>
+<p class="footnote">Este módulo presenta las funciones definidas en forma gráfica. No realiza reservas ni consulta datos reales todavía.</p>
+</body>
+</html>

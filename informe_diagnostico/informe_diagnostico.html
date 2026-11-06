@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Informes de diagnósticos</title>
+<style>
+:root{--bg:#0b3d3d;--card:#104b4a;--edge:rgba(125,215,207,.22);--txt:#d5e8e8;--muted:#a9c8c8;--accent:#4bd5c7}
+*{box-sizing:border-box}
+html,body{margin:0;min-height:100%;font-family:system-ui,-apple-system,"Segoe UI",Arial,sans-serif}
+body{background:var(--bg);color:var(--txt);padding:clamp(16px,3vw,32px)}
+.eyebrow{color:var(--accent);text-transform:uppercase;letter-spacing:.12em;font-weight:750;font-size:11px}
+h1{margin:8px 0;font-size:clamp(24px,3vw,35px)}
+.lead{max-width:860px;color:var(--muted);line-height:1.55;font-size:14px;margin:0 0 26px}
+.header{display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px;align-items:center}
+.flag{font-size:11px;border:1px solid var(--edge);border-radius:100px;padding:8px 12px;color:var(--muted)}
+.section-heading{font-size:16px;margin:30px 0 14px}
+.flow{display:flex;align-items:stretch;gap:9px;flex-wrap:wrap}
+.flow-step{flex:1 1 145px;min-width:0;border:1px solid var(--edge);background:rgba(75,213,199,.07);padding:14px;border-radius:11px}
+.flow-step strong{display:block;font-size:13px;margin-bottom:5px}
+.flow-step span{font-size:11px;color:var(--muted);line-height:1.5}
+.flow-arrow{align-self:center;color:var(--accent);font-size:19px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px}
+.card{border:1px solid var(--edge);border-radius:13px;background:var(--card);padding:18px;min-height:155px}
+.symbol{display:inline-grid;place-items:center;width:36px;height:36px;border:1px solid var(--edge);border-radius:10px;background:rgba(75,213,199,.09);font-size:18px;color:var(--accent)}
+.card h3{font-size:14px;margin:13px 0 6px}
+.card p{font-size:12px;line-height:1.55;color:var(--muted);margin:0}
+.note{border-left:3px solid var(--accent);border-radius:0 9px 9px 0;background:rgba(75,213,199,.07);padding:13px 16px;color:var(--muted);font-size:12px;line-height:1.6}
+.footnote{font-size:11px;color:var(--muted);margin-top:26px;border-top:1px solid var(--edge);padding-top:14px}
+@media(max-width:640px){.flow-arrow{display:none}.flow-step{flex-basis:100%}}
+</style>
+</head>
+<body>
+<div class="header"><div><div class="eyebrow">Diagnóstico / Informes</div><h1>Informes de diagnósticos</h1></div><span class="flag">Vista conceptual del módulo</span></div>
+<p class="lead">Herramientas para elaborar y protocolizar informes de prácticas diagnósticas, asociar imágenes de estudios, registrar dictados de audio y validar resultados mediante lectura y doble lectura.</p>
+<h2 class="section-heading">Circuito de elaboración de informes</h2>
+<div class="flow" aria-label="Circuito ilustrativo de informes de diagnósticos">
+<div class="flow-step"><strong>1. Práctica</strong><span>Selección del estudio o procedimiento realizado</span></div><span class="flow-arrow" aria-hidden="true">→</span>
+<div class="flow-step"><strong>2. Informe</strong><span>Redacción protocolizada o grabación de audio</span></div><span class="flow-arrow" aria-hidden="true">→</span>
+<div class="flow-step"><strong>3. Revisión</strong><span>Validación y segunda lectura del informe</span></div><span class="flow-arrow" aria-hidden="true">→</span>
+<div class="flow-step"><strong>4. Resultado</strong><span>Informe disponible y vinculación con PACS si corresponde</span></div>
+</div>
+<h2 class="section-heading">Funciones del módulo</h2>
+<div class="grid">
+<article class="card"><span class="symbol">▤</span><h3>Emisión de informes</h3><p>Elaboración de informes correspondientes a prácticas de diagnóstico realizadas.</p></article>
+<article class="card"><span class="symbol">☷</span><h3>Protocolización</h3><p>Plantillas y variables predefinidas para estructurar y agilizar la emisión de informes.</p></article>
+<article class="card"><span class="symbol">▧</span><h3>Integración PACS</h3><p>Vinculación con sistemas PACS para consultar imágenes de estudios cuando exista una integración configurada.</p></article>
+<article class="card"><span class="symbol">◉</span><h3>Informes en audio</h3><p>Grabación de informes mediante archivos de audio asociados a las prácticas.</p></article>
+<article class="card"><span class="symbol">✓</span><h3>Validación y doble lectura</h3><p>Revisión y validación de los informes con posibilidad de segunda lectura antes de su finalización.</p></article>
+</div>
+<h2 class="section-heading">Integración y control</h2>
+<div class="note"><strong>Imágenes y validación:</strong> la integración PACS depende de la conexión con el sistema de imágenes de la institución. Las funciones de validación y doble lectura deberán implementar permisos, trazabilidad y estados de aprobación cuando se desarrolle el módulo operativo.</div>
+<p class="footnote">Representación gráfica de las funciones previstas. No emite informes reales, graba audio, valida documentos ni consulta sistemas PACS.</p>
+</body>
+</html>

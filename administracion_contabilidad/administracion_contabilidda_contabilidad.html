@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Administración y contabilidad · Contabilidad</title>
+<style>
+:root{--bg:#0b3d3d;--card:#104b4a;--edge:rgba(125,215,207,.22);--txt:#d5e8e8;--muted:#a9c8c8;--accent:#4bd5c7}
+*{box-sizing:border-box}
+html,body{margin:0;min-height:100%;font-family:system-ui,-apple-system,"Segoe UI",Arial,sans-serif}
+body{background:var(--bg);color:var(--txt);padding:clamp(16px,3vw,32px)}
+.eyebrow{color:var(--accent);text-transform:uppercase;letter-spacing:.12em;font-weight:750;font-size:11px}
+h1{margin:8px 0;font-size:clamp(24px,3vw,35px)}
+.lead{max-width:850px;color:var(--muted);line-height:1.55;font-size:14px;margin:0 0 26px}
+.header{display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px;align-items:center}
+.flag{font-size:11px;border:1px solid var(--edge);border-radius:100px;padding:8px 12px;color:var(--muted)}
+.section-heading{font-size:16px;margin:30px 0 14px}
+.flow{display:flex;align-items:stretch;gap:9px;flex-wrap:wrap}
+.flow-step{flex:1 1 145px;min-width:0;border:1px solid var(--edge);background:rgba(75,213,199,.07);padding:14px;border-radius:11px}
+.flow-step strong{display:block;font-size:13px;margin-bottom:5px}
+.flow-step span{font-size:11px;color:var(--muted);line-height:1.5}
+.flow-arrow{align-self:center;color:var(--accent);font-size:19px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(215px,1fr));gap:14px}
+.card{border:1px solid var(--edge);border-radius:13px;background:var(--card);padding:18px;min-height:156px}
+.symbol{display:inline-grid;place-items:center;width:36px;height:36px;border:1px solid var(--edge);border-radius:10px;background:rgba(75,213,199,.09);font-size:18px;color:var(--accent)}
+.card h3{font-size:14px;margin:13px 0 6px}
+.card p{font-size:12px;line-height:1.55;color:var(--muted);margin:0}
+.footnote{font-size:11px;color:var(--muted);margin-top:26px;border-top:1px solid var(--edge);padding-top:14px}
+@media(max-width:640px){.flow-arrow{display:none}.flow-step{flex-basis:100%}}
+</style>
+</head>
+<body>
+<div class="header"><div><div class="eyebrow">Administración y contabilidad / Contabilidad</div><h1>Gestión contable</h1></div><span class="flag">Vista conceptual del módulo</span></div>
+<p class="lead">Configuración de criterios de registración, automatización y carga de asientos, cierres de períodos, libros contables, balances y análisis de gastos por centros de costos.</p>
+<h2 class="section-heading">Circuito contable</h2>
+<div class="flow" aria-label="Circuito ilustrativo de contabilidad">
+<div class="flow-step"><strong>1. Configuración</strong><span>Proformas y asientos modelo</span></div><span class="flow-arrow" aria-hidden="true">→</span>
+<div class="flow-step"><strong>2. Registración</strong><span>Asientos automáticos y manuales</span></div><span class="flow-arrow" aria-hidden="true">→</span>
+<div class="flow-step"><strong>3. Control</strong><span>Imputaciones, ajustes y cierres</span></div><span class="flow-arrow" aria-hidden="true">→</span>
+<div class="flow-step"><strong>4. Informes</strong><span>Libros, balances y gastos por centro de costos</span></div>
+</div>
+<h2 class="section-heading">Funciones del módulo</h2>
+<div class="grid">
+<article class="card"><span class="symbol">▤</span><h3>Proformas contables</h3><p>Configuración de proformas que determinan los asientos asociados a cada comprobante emitido por el software de salud.</p></article>
+<article class="card"><span class="symbol">↻</span><h3>Generación automática de asientos</h3><p>Creación automática de asientos contables según los comprobantes y las reglas configuradas.</p></article>
+<article class="card"><span class="symbol">≡</span><h3>Asientos modelo</h3><p>Definición de plantillas para operaciones contables habituales.</p></article>
+<article class="card"><span class="symbol">✎</span><h3>Asientos manuales</h3><p>Carga y registro de asientos contables ingresados por el usuario.</p></article>
+<article class="card"><span class="symbol">▦</span><h3>Centros de costos</h3><p>Imputación de gastos a centros de costos y seguimiento de su distribución.</p></article>
+<article class="card"><span class="symbol">⇥</span><h3>Apertura y cierre de ejercicio</h3><p>Asientos de apertura y cierre correspondientes a cada ejercicio contable.</p></article>
+<article class="card"><span class="symbol">◷</span><h3>Cierres contables parciales</h3><p>Cierres por períodos intermedios para control y seguimiento.</p></article>
+<article class="card"><span class="symbol">▤</span><h3>Informes de gastos</h3><p>Consulta y análisis de gastos por centros de costos.</p></article>
+<article class="card"><span class="symbol">↗</span><h3>Ajuste por inflación</h3><p>Herramientas previstas para el ajuste contable por inflación.</p></article>
+</div>
+<h2 class="section-heading">Libros contables</h2>
+<div class="grid">
+<article class="card"><span class="symbol">▤</span><h3>Diario</h3><p>Registro cronológico de asientos.</p></article>
+<article class="card"><span class="symbol">▤</span><h3>Mayor</h3><p>Movimientos y saldos por cuenta.</p></article>
+<article class="card"><span class="symbol">▤</span><h3>IVA Ventas</h3><p>Libro de IVA correspondiente a ventas.</p></article>
+<article class="card"><span class="symbol">▤</span><h3>IVA Compras</h3><p>Libro de IVA correspondiente a compras.</p></article>
+</div>
+<h2 class="section-heading">Balances y estados</h2>
+<div class="grid">
+<article class="card"><span class="symbol">≡</span><h3>Comprobación de sumas y saldos</h3><p>Control de débitos, créditos y saldos.</p></article>
+<article class="card"><span class="symbol">≡</span><h3>Estado de resultados</h3><p>Presentación del resultado del período.</p></article>
+<article class="card"><span class="symbol">≡</span><h3>Estado de situación patrimonial</h3><p>Presentación de activos, pasivos y patrimonio.</p></article>
+</div>
+<p class="footnote">Representación gráfica de las funciones previstas. Este boceto no genera asientos, libros, balances ni ajustes contables reales.</p>
+</body>
+</html>

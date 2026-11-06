@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Historia Clínica Electrónica</title>
+<style>
+:root{--bg:#0b3d3d;--card:#104b4a;--edge:rgba(125,215,207,.22);--txt:#d5e8e8;--muted:#a9c8c8;--accent:#4bd5c7}
+*{box-sizing:border-box}
+html,body{margin:0;min-height:100%;font-family:system-ui,-apple-system,"Segoe UI",Arial,sans-serif}
+body{background:var(--bg);color:var(--txt);padding:clamp(16px,3vw,32px)}
+.eyebrow{color:var(--accent);text-transform:uppercase;letter-spacing:.12em;font-weight:750;font-size:11px}
+h1{margin:8px 0;font-size:clamp(24px,3vw,35px)}
+.lead{max-width:920px;color:var(--muted);line-height:1.55;font-size:14px;margin:0 0 26px}
+.header{display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px;align-items:center}
+.flag{font-size:11px;border:1px solid var(--edge);border-radius:100px;padding:8px 12px;color:var(--muted)}
+.section-heading{font-size:16px;margin:30px 0 14px}
+.flow{display:flex;align-items:stretch;gap:9px;flex-wrap:wrap}
+.flow-step{flex:1 1 155px;min-width:0;border:1px solid var(--edge);background:rgba(75,213,199,.07);padding:14px;border-radius:11px}
+.flow-step strong{display:block;font-size:13px;margin-bottom:5px}
+.flow-step span{font-size:11px;color:var(--muted);line-height:1.5}
+.flow-arrow{align-self:center;color:var(--accent);font-size:19px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px}
+.card{border:1px solid var(--edge);border-radius:13px;background:var(--card);padding:18px;min-height:154px}
+.symbol{display:inline-grid;place-items:center;width:36px;height:36px;border:1px solid var(--edge);border-radius:10px;background:rgba(75,213,199,.09);font-size:18px;color:var(--accent)}
+.card h3{font-size:14px;margin:13px 0 6px}
+.card p{font-size:12px;line-height:1.55;color:var(--muted);margin:0}
+.groups{display:grid;grid-template-columns:repeat(auto-fit,minmax(270px,1fr));gap:14px}
+.group{border:1px solid var(--edge);background:var(--card);border-radius:13px;padding:18px}
+.group h3{font-size:15px;margin:0 0 9px}
+.group ul{margin:0;padding-left:18px;color:var(--muted);font-size:12px;line-height:1.9}
+.group .hint{font-size:12px;color:var(--muted);line-height:1.5;margin:0 0 12px}
+.status{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0 2px}
+.status span{border:1px solid var(--edge);padding:7px 10px;border-radius:8px;font-size:11px;color:var(--txt)}
+.dot{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:5px;background:#51d6a4}
+.dot.warn{background:#f3c76a}.dot.alert{background:#ee8e88}
+.note{border-left:3px solid var(--accent);border-radius:0 9px 9px 0;background:rgba(75,213,199,.07);padding:13px 16px;color:var(--muted);font-size:12px;line-height:1.6}
+.footnote{font-size:11px;color:var(--muted);margin-top:26px;border-top:1px solid var(--edge);padding-top:14px}
+@media(max-width:640px){.flow-arrow{display:none}.flow-step{flex-basis:100%}}
+</style>
+</head>
+<body>
+<div class="header"><div><div class="eyebrow">Historia clínica / Gestión asistencial</div><h1>Historia Clínica Electrónica</h1></div><span class="flag">Vista conceptual del módulo</span></div>
+<p class="lead">Historia clínica digital única por paciente, con información centralizada, evolución profesional, estudios, prescripciones y seguimiento de internaciones desde una misma plataforma.</p>
+<h2 class="section-heading">Circuito de información clínica</h2>
+<div class="flow" aria-label="Circuito conceptual de la historia clínica">
+<div class="flow-step"><strong>1. Paciente</strong><span>Historia única y consulta centralizada</span></div><span class="flow-arrow" aria-hidden="true">→</span>
+<div class="flow-step"><strong>2. Atención</strong><span>Evoluciones, plantillas y prescripciones</span></div><span class="flow-arrow" aria-hidden="true">→</span>
+<div class="flow-step"><strong>3. Resultados</strong><span>Laboratorio, informes e imágenes</span></div><span class="flow-arrow" aria-hidden="true">→</span>
+<div class="flow-step"><strong>4. Seguimiento</strong><span>Internación, enfermería y epicrisis</span></div>
+</div>
+<h2 class="section-heading">Funciones generales</h2>
+<div class="grid">
+<article class="card"><span class="symbol">▤</span><h3>Historia clínica única</h3><p>Registro digital único por paciente y acceso centralizado a toda su información desde un formulario.</p></article>
+<article class="card"><span class="symbol">✎</span><h3>Evolución profesional</h3><p>Registro de la evolución clínica aportada por cada profesional interviniente.</p></article>
+<article class="card"><span class="symbol">▧</span><h3>Estudios diagnósticos</h3><p>Consulta de informes e imágenes de prácticas de diagnóstico y resultados de laboratorio.</p></article>
+<article class="card"><span class="symbol">✚</span><h3>Recetas médicas</h3><p>Emisión de recetas asociadas a la historia clínica del paciente.</p></article>
+<article class="card"><span class="symbol">☷</span><h3>Plantillas configurables</h3><p>Definición libre de plantillas informatizadas con campos y datos preestablecidos.</p></article>
+<article class="card"><span class="symbol">◉</span><h3>Panel de internaciones</h3><p>Seguimiento de pacientes internados con semáforos y alertas sobre necesidades de atención.</p></article>
+</div>
+<h2 class="section-heading">Panel de internaciones</h2>
+<div class="note"><strong>Semáforos y alertas:</strong> vista conceptual de priorización de pacientes que requieren atención; no representa estados clínicos reales.</div>
+<div class="status" aria-label="Leyenda ilustrativa de semáforos"><span><i class="dot"></i>Seguimiento al día</span><span><i class="dot warn"></i>Revisión pendiente</span><span><i class="dot alert"></i>Requiere atención</span></div>
+<div class="groups" style="margin-top:14px">
+<section class="group"><h3>Atención médica</h3><p class="hint">Registro y seguimiento de intervenciones del equipo médico.</p><ul>
+<li>Anamnesis</li><li>Evolución diaria</li><li>Prescripción de medicamentos</li><li>Indicaciones médicas</li><li>Solicitudes de estudios a servicios</li><li>Informes e imágenes de diagnóstico</li><li>Resultados de laboratorio</li><li>Epicrisis</li>
+</ul></section>
+<section class="group"><h3>Atención de enfermería</h3><p class="hint">Registro de cuidados y verificación de indicaciones clínicas.</p><ul>
+<li>Suministro de medicamentos</li><li>Confirmación de indicaciones médicas</li><li>Registro de signos vitales</li><li>Balance hídrico</li><li>Notas de evolución</li>
+</ul></section>
+</div>
+<h2 class="section-heading">Herramientas e integraciones</h2>
+<div class="grid">
+<article class="card"><span class="symbol">✓</span><h3>Firma electrónica / digital</h3><p>Firma de documentos y registros clínicos, sujeta a la implementación correspondiente.</p></article>
+<article class="card"><span class="symbol">⇄</span><h3>HL7 / CDA</h3><p>Intercambio y estructuración de información clínica mediante estándares HL7 y CDA.</p></article>
+<article class="card"><span class="symbol">▣</span><h3>Videoconsulta integrada</h3><p>Acceso a atención remota vinculada al registro clínico del paciente.</p></article>
+<article class="card"><span class="symbol">♧</span><h3>Nutrición y dietas</h3><p>Gestión de indicaciones nutricionales y dietas de pacientes.</p></article>
+</div>
+<p class="footnote">Representación gráfica de funciones previstas. No contiene datos de pacientes ni implementa aún prescripciones, firmas, interoperabilidad o alertas clínicas reales.</p>
+</body>
+</html>
