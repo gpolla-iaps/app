@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es"><head><meta charset="utf-8"/><meta content="width=device-width,initial-scale=1" name="viewport"/><title>ProgramaNuevo • Ambulatorio</title><link href="../assets/ui.css" rel="stylesheet"/><style>
+/* Presentación única: el menú pertenece exclusivamente a ProgramaNuevo. */
+html,body,.shell,.work{width:100%;min-width:0;min-height:100%;}
+.shell{display:block}.work{width:100%}.pane{display:block;min-height:calc(100vh - 61px)}
+.screenbody{width:100%;max-width:none;padding:24px 25px}
+#screenlist-content,#find-screen{display:none!important}
+.screen-chooser{display:flex;align-items:center;gap:8px;white-space:nowrap;font-size:12px;color:#405b70}
+.screen-chooser select{max-width:300px;min-width:150px;padding:9px;border:1px solid #d5e0e9;border-radius:8px;background:#fff;color:#233a50}
+.pagetitle{flex-wrap:wrap}.headingbuttons{align-items:center}
+@media(max-width:760px){.screenbody{padding:15px}.screen-chooser{width:100%}.screen-chooser select{max-width:100%;min-width:0;flex:1}}
+</style></head><body><div class="shell"><section class="work"><header class="toolbar"><b id="module-name">Ambulatorio</b><span class="flex"></span><span class="demo">● Modo demo</span><button class="btn secondary small" id="reset">Restablecer ejemplos</button></header><div class="pane"><div hidden="" id="screenlist-content"></div><input hidden="" id="find-screen" type="search"/><main class="screenbody"><div class="pagetitle"><div><div class="eyebrow">ProgramaNuevo / AMBULATORIO</div><h1 id="view-title"></h1><div class="muted" id="view-subtitle"></div></div><div class="headingbuttons"><label class="screen-chooser">Pantalla: <select aria-label="Seleccionar pantalla del módulo" id="screen-select"></select></label><button class="btn secondary" id="print">Imprimir vista</button><button class="btn primary" id="newrecord">+ Nuevo registro</button></div></div><div id="workspace"></div></main></div></section></div><div aria-live="polite" id="toast"></div><script src="../assets/common.js"></script><script src="../assets/03-ambulatorio.js"></script><script src="../assets/module.js"></script><script>
+(function(){
+const list=document.getElementById('screenlist-content'),select=document.getElementById('screen-select');
+if(!list||!select)return;
+const initialize=()=>{
+const buttons=[...list.querySelectorAll('[data-screen]')];
+if(!buttons.length)return;
+if(select.options.length)return;
+select.replaceChildren(...buttons.map(b=>{const o=document.createElement('option');o.value=b.dataset.screen;o.textContent=b.textContent;return o}));
+select.value=(location.hash.match(/pantalla-(\d+)/)||[])[1]?String(Number(RegExp.$1)-1):'0';
+select.addEventListener('change',()=>{const b=list.querySelector('[data-screen="'+select.value+'"]');if(b)b.click()});
+};initialize();new MutationObserver(initialize).observe(list,{childList:true});
+})();
+</script></body></html>

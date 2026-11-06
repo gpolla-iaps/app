@@ -1,0 +1,1 @@
+window.ProgramaNuevo_MODULE={"number":6,"title":"Informes","screens":[{"title":"Edición de Informes","level":2},{"title":"Eliminación de Informes","level":2},{"title":"Consulta de informes","level":2},{"title":"Protocolos","level":2}]};
